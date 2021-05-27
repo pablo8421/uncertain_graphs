@@ -1,0 +1,1201 @@
+dataset,modification,percentage,method,metric,value
+Dancer 01,random asc,0.0,Louvain-igraph,P,8.0
+Dancer 01,random asc,0.0,Louvain-igraph,P*/P,0.75
+Dancer 01,random asc,0.0,Louvain-igraph,Modularity,0.6489569391094215
+Dancer 01,random asc,0.0,Louvain-igraph,NMI,0.7645202639181649
+Dancer 01,random asc,0.0,Fastgreedy,P,8.0
+Dancer 01,random asc,0.0,Fastgreedy,P*/P,0.75
+Dancer 01,random asc,0.0,Fastgreedy,Modularity,0.6405248819384323
+Dancer 01,random asc,0.0,Fastgreedy,NMI,0.7592452773222022
+Dancer 01,random asc,0.0,Infomap,P,98.0
+Dancer 01,random asc,0.0,Infomap,P*/P,0.061224489795918366
+Dancer 01,random asc,0.0,Infomap,Modularity,0.6046514402212069
+Dancer 01,random asc,0.0,Infomap,NMI,0.5578982316785559
+Dancer 01,random asc,0.0,Label Propagation,P,6.0
+Dancer 01,random asc,0.0,Label Propagation,P*/P,1.0
+Dancer 01,random asc,0.0,Label Propagation,Modularity,0.6468051782339913
+Dancer 01,random asc,0.0,Label Propagation,NMI,0.7885941107877064
+Dancer 01,random asc,0.0,Louvain,P,8.0
+Dancer 01,random asc,0.0,Louvain,P*/P,0.75
+Dancer 01,random asc,0.0,Louvain,Modularity,0.6492869399884563
+Dancer 01,random asc,0.0,Louvain,NMI,0.777686058292869
+Dancer 01,random asc,0.1,Louvain-igraph,P,22.0
+Dancer 01,random asc,0.1,Louvain-igraph,P*/P,0.2727272727272727
+Dancer 01,random asc,0.1,Louvain-igraph,Modularity,0.6504319299515786
+Dancer 01,random asc,0.1,Louvain-igraph,NMI,0.7301468201903487
+Dancer 01,random asc,0.1,Fastgreedy,P,19.0
+Dancer 01,random asc,0.1,Fastgreedy,P*/P,0.3157894736842105
+Dancer 01,random asc,0.1,Fastgreedy,Modularity,0.6422660028646061
+Dancer 01,random asc,0.1,Fastgreedy,NMI,0.7164646529803582
+Dancer 01,random asc,0.1,Infomap,P,107.0
+Dancer 01,random asc,0.1,Infomap,P*/P,0.056074766355140186
+Dancer 01,random asc,0.1,Infomap,Modularity,0.6062862767081173
+Dancer 01,random asc,0.1,Infomap,NMI,0.539444762998291
+Dancer 01,random asc,0.1,Label Propagation,P,17.0
+Dancer 01,random asc,0.1,Label Propagation,P*/P,0.35294117647058826
+Dancer 01,random asc,0.1,Label Propagation,Modularity,0.6475728788233415
+Dancer 01,random asc,0.1,Label Propagation,NMI,0.7455182848824617
+Dancer 01,random asc,0.1,Louvain,P,21.0
+Dancer 01,random asc,0.1,Louvain,P*/P,0.2857142857142857
+Dancer 01,random asc,0.1,Louvain,Modularity,0.6504257885855202
+Dancer 01,random asc,0.1,Louvain,NMI,0.7228616555979814
+Dancer 01,random asc,0.2,Louvain-igraph,P,35.0
+Dancer 01,random asc,0.2,Louvain-igraph,P*/P,0.17142857142857143
+Dancer 01,random asc,0.2,Louvain-igraph,Modularity,0.6559509396214772
+Dancer 01,random asc,0.2,Louvain-igraph,NMI,0.6912864479873535
+Dancer 01,random asc,0.2,Fastgreedy,P,34.0
+Dancer 01,random asc,0.2,Fastgreedy,P*/P,0.17647058823529413
+Dancer 01,random asc,0.2,Fastgreedy,Modularity,0.6462464518034311
+Dancer 01,random asc,0.2,Fastgreedy,NMI,0.6498688679933021
+Dancer 01,random asc,0.2,Infomap,P,142.0
+Dancer 01,random asc,0.2,Infomap,P*/P,0.04225352112676056
+Dancer 01,random asc,0.2,Infomap,Modularity,0.6005126125697942
+Dancer 01,random asc,0.2,Infomap,NMI,0.4939301766508057
+Dancer 01,random asc,0.2,Label Propagation,P,32.0
+Dancer 01,random asc,0.2,Label Propagation,P*/P,0.1875
+Dancer 01,random asc,0.2,Label Propagation,Modularity,0.6530790774339408
+Dancer 01,random asc,0.2,Label Propagation,NMI,0.7352236096973553
+Dancer 01,random asc,0.2,Louvain,P,36.0
+Dancer 01,random asc,0.2,Louvain,P*/P,0.16666666666666666
+Dancer 01,random asc,0.2,Louvain,Modularity,0.6552167871757334
+Dancer 01,random asc,0.2,Louvain,NMI,0.6865018408247846
+Dancer 01,random asc,0.30000000000000004,Louvain-igraph,P,56.0
+Dancer 01,random asc,0.30000000000000004,Louvain-igraph,P*/P,0.10714285714285714
+Dancer 01,random asc,0.30000000000000004,Louvain-igraph,Modularity,0.6620953698680786
+Dancer 01,random asc,0.30000000000000004,Louvain-igraph,NMI,0.6389914542188483
+Dancer 01,random asc,0.30000000000000004,Fastgreedy,P,55.0
+Dancer 01,random asc,0.30000000000000004,Fastgreedy,P*/P,0.10909090909090909
+Dancer 01,random asc,0.30000000000000004,Fastgreedy,Modularity,0.6566062813462016
+Dancer 01,random asc,0.30000000000000004,Fastgreedy,NMI,0.6493515848726752
+Dancer 01,random asc,0.30000000000000004,Infomap,P,161.0
+Dancer 01,random asc,0.30000000000000004,Infomap,P*/P,0.037267080745341616
+Dancer 01,random asc,0.30000000000000004,Infomap,Modularity,0.5977895900046977
+Dancer 01,random asc,0.30000000000000004,Infomap,NMI,0.47251284769065927
+Dancer 01,random asc,0.30000000000000004,Label Propagation,P,51.0
+Dancer 01,random asc,0.30000000000000004,Label Propagation,P*/P,0.11764705882352941
+Dancer 01,random asc,0.30000000000000004,Label Propagation,Modularity,0.6542801741053356
+Dancer 01,random asc,0.30000000000000004,Label Propagation,NMI,0.6625676555590887
+Dancer 01,random asc,0.30000000000000004,Louvain,P,57.0
+Dancer 01,random asc,0.30000000000000004,Louvain,P*/P,0.10526315789473684
+Dancer 01,random asc,0.30000000000000004,Louvain,Modularity,0.6616329545690102
+Dancer 01,random asc,0.30000000000000004,Louvain,NMI,0.6417094642633634
+Dancer 01,random asc,0.4,Louvain-igraph,P,90.0
+Dancer 01,random asc,0.4,Louvain-igraph,P*/P,0.06666666666666667
+Dancer 01,random asc,0.4,Louvain-igraph,Modularity,0.6738610720888136
+Dancer 01,random asc,0.4,Louvain-igraph,NMI,0.5924498103451323
+Dancer 01,random asc,0.4,Fastgreedy,P,95.0
+Dancer 01,random asc,0.4,Fastgreedy,P*/P,0.06315789473684211
+Dancer 01,random asc,0.4,Fastgreedy,Modularity,0.6575175180458971
+Dancer 01,random asc,0.4,Fastgreedy,NMI,0.5591523292386202
+Dancer 01,random asc,0.4,Infomap,P,205.0
+Dancer 01,random asc,0.4,Infomap,P*/P,0.02926829268292683
+Dancer 01,random asc,0.4,Infomap,Modularity,0.5959494894843755
+Dancer 01,random asc,0.4,Infomap,NMI,0.4360052038052306
+Dancer 01,random asc,0.4,Label Propagation,P,82.0
+Dancer 01,random asc,0.4,Label Propagation,P*/P,0.07317073170731707
+Dancer 01,random asc,0.4,Label Propagation,Modularity,0.6668062751853778
+Dancer 01,random asc,0.4,Label Propagation,NMI,0.6269481871726834
+Dancer 01,random asc,0.4,Louvain,P,90.0
+Dancer 01,random asc,0.4,Louvain,P*/P,0.06666666666666667
+Dancer 01,random asc,0.4,Louvain,Modularity,0.6740164761405477
+Dancer 01,random asc,0.4,Louvain,NMI,0.5938067248099943
+Dancer 01,random asc,0.5,Louvain-igraph,P,174.0
+Dancer 01,random asc,0.5,Louvain-igraph,P*/P,0.034482758620689655
+Dancer 01,random asc,0.5,Louvain-igraph,Modularity,0.674727077645867
+Dancer 01,random asc,0.5,Louvain-igraph,NMI,0.5408492623745031
+Dancer 01,random asc,0.5,Fastgreedy,P,176.0
+Dancer 01,random asc,0.5,Fastgreedy,P*/P,0.03409090909090909
+Dancer 01,random asc,0.5,Fastgreedy,Modularity,0.6769120528393928
+Dancer 01,random asc,0.5,Fastgreedy,NMI,0.5543143326889399
+Dancer 01,random asc,0.5,Infomap,P,287.0
+Dancer 01,random asc,0.5,Infomap,P*/P,0.020905923344947737
+Dancer 01,random asc,0.5,Infomap,Modularity,0.5870080030871246
+Dancer 01,random asc,0.5,Infomap,NMI,0.4248813522645421
+Dancer 01,random asc,0.5,Label Propagation,P,172.0
+Dancer 01,random asc,0.5,Label Propagation,P*/P,0.03488372093023256
+Dancer 01,random asc,0.5,Label Propagation,Modularity,0.6690894373734658
+Dancer 01,random asc,0.5,Label Propagation,NMI,0.5639828946212156
+Dancer 01,random asc,0.5,Louvain,P,177.0
+Dancer 01,random asc,0.5,Louvain,P*/P,0.03389830508474576
+Dancer 01,random asc,0.5,Louvain,Modularity,0.6782330583999794
+Dancer 01,random asc,0.5,Louvain,NMI,0.5530211572659821
+Dancer 01,random asc,0.6000000000000001,Louvain-igraph,P,225.0
+Dancer 01,random asc,0.6000000000000001,Louvain-igraph,P*/P,0.02666666666666667
+Dancer 01,random asc,0.6000000000000001,Louvain-igraph,Modularity,0.6948936405345342
+Dancer 01,random asc,0.6000000000000001,Louvain-igraph,NMI,0.48953468503177666
+Dancer 01,random asc,0.6000000000000001,Fastgreedy,P,233.0
+Dancer 01,random asc,0.6000000000000001,Fastgreedy,P*/P,0.02575107296137339
+Dancer 01,random asc,0.6000000000000001,Fastgreedy,Modularity,0.7033536061548451
+Dancer 01,random asc,0.6000000000000001,Fastgreedy,NMI,0.5056611220755585
+Dancer 01,random asc,0.6000000000000001,Infomap,P,356.0
+Dancer 01,random asc,0.6000000000000001,Infomap,P*/P,0.016853932584269662
+Dancer 01,random asc,0.6000000000000001,Infomap,Modularity,0.58136943747507
+Dancer 01,random asc,0.6000000000000001,Infomap,NMI,0.39948777087352344
+Dancer 01,random asc,0.6000000000000001,Label Propagation,P,229.0
+Dancer 01,random asc,0.6000000000000001,Label Propagation,P*/P,0.026200873362445413
+Dancer 01,random asc,0.6000000000000001,Label Propagation,Modularity,0.6907814817628786
+Dancer 01,random asc,0.6000000000000001,Label Propagation,NMI,0.5244342003119402
+Dancer 01,random asc,0.6000000000000001,Louvain,P,225.0
+Dancer 01,random asc,0.6000000000000001,Louvain,P*/P,0.02666666666666667
+Dancer 01,random asc,0.6000000000000001,Louvain,Modularity,0.6980618579709594
+Dancer 01,random asc,0.6000000000000001,Louvain,NMI,0.5013800134204215
+Dancer 01,random asc,0.7000000000000001,Louvain-igraph,P,372.0
+Dancer 01,random asc,0.7000000000000001,Louvain-igraph,P*/P,0.016129032258064516
+Dancer 01,random asc,0.7000000000000001,Louvain-igraph,Modularity,0.7178202444355789
+Dancer 01,random asc,0.7000000000000001,Louvain-igraph,NMI,0.41672463038355767
+Dancer 01,random asc,0.7000000000000001,Fastgreedy,P,378.0
+Dancer 01,random asc,0.7000000000000001,Fastgreedy,P*/P,0.015873015873015872
+Dancer 01,random asc,0.7000000000000001,Fastgreedy,Modularity,0.7290923082856012
+Dancer 01,random asc,0.7000000000000001,Fastgreedy,NMI,0.42568254803453376
+Dancer 01,random asc,0.7000000000000001,Infomap,P,498.0
+Dancer 01,random asc,0.7000000000000001,Infomap,P*/P,0.012048192771084338
+Dancer 01,random asc,0.7000000000000001,Infomap,Modularity,0.6095257582900045
+Dancer 01,random asc,0.7000000000000001,Infomap,NMI,0.37589186700824345
+Dancer 01,random asc,0.7000000000000001,Label Propagation,P,391.0
+Dancer 01,random asc,0.7000000000000001,Label Propagation,P*/P,0.015345268542199489
+Dancer 01,random asc,0.7000000000000001,Label Propagation,Modularity,0.6998705317579944
+Dancer 01,random asc,0.7000000000000001,Label Propagation,NMI,0.4245037979837666
+Dancer 01,random asc,0.7000000000000001,Louvain,P,372.0
+Dancer 01,random asc,0.7000000000000001,Louvain,P*/P,0.016129032258064516
+Dancer 01,random asc,0.7000000000000001,Louvain,Modularity,0.7223845371788535
+Dancer 01,random asc,0.7000000000000001,Louvain,NMI,0.418846959925804
+Dancer 01,random asc,0.8,Louvain-igraph,P,584.0
+Dancer 01,random asc,0.8,Louvain-igraph,P*/P,0.010273972602739725
+Dancer 01,random asc,0.8,Louvain-igraph,Modularity,0.7738814513719926
+Dancer 01,random asc,0.8,Louvain-igraph,NMI,0.3939730413983188
+Dancer 01,random asc,0.8,Fastgreedy,P,587.0
+Dancer 01,random asc,0.8,Fastgreedy,P*/P,0.010221465076660987
+Dancer 01,random asc,0.8,Fastgreedy,Modularity,0.7771294772595011
+Dancer 01,random asc,0.8,Fastgreedy,NMI,0.4055510532008596
+Dancer 01,random asc,0.8,Infomap,P,699.0
+Dancer 01,random asc,0.8,Infomap,P*/P,0.008583690987124463
+Dancer 01,random asc,0.8,Infomap,Modularity,0.6676642273376373
+Dancer 01,random asc,0.8,Infomap,NMI,0.37479413151360486
+Dancer 01,random asc,0.8,Label Propagation,P,667.0
+Dancer 01,random asc,0.8,Label Propagation,P*/P,0.008995502248875561
+Dancer 01,random asc,0.8,Label Propagation,Modularity,0.6691902469432118
+Dancer 01,random asc,0.8,Label Propagation,NMI,0.36837337597211706
+Dancer 01,random asc,0.8,Louvain,P,585.0
+Dancer 01,random asc,0.8,Louvain,P*/P,0.010256410256410256
+Dancer 01,random asc,0.8,Louvain,Modularity,0.7779419154200928
+Dancer 01,random asc,0.8,Louvain,NMI,0.3975877278509406
+Dancer 01,random asc,0.9,Louvain-igraph,P,978.0
+Dancer 01,random asc,0.9,Louvain-igraph,P*/P,0.006134969325153374
+Dancer 01,random asc,0.9,Louvain-igraph,Modularity,0.886401978170364
+Dancer 01,random asc,0.9,Louvain-igraph,NMI,0.3814728663556084
+Dancer 01,random asc,0.9,Fastgreedy,P,979.0
+Dancer 01,random asc,0.9,Fastgreedy,P*/P,0.006128702757916241
+Dancer 01,random asc,0.9,Fastgreedy,Modularity,0.8838981836265638
+Dancer 01,random asc,0.9,Fastgreedy,NMI,0.38499250458320683
+Dancer 01,random asc,0.9,Infomap,P,1031.0
+Dancer 01,random asc,0.9,Infomap,P*/P,0.005819592628516004
+Dancer 01,random asc,0.9,Infomap,Modularity,0.822670046501508
+Dancer 01,random asc,0.9,Infomap,NMI,0.37812382112549003
+Dancer 01,random asc,0.9,Label Propagation,P,1036.0
+Dancer 01,random asc,0.9,Label Propagation,P*/P,0.005791505791505791
+Dancer 01,random asc,0.9,Label Propagation,Modularity,0.8110377624019851
+Dancer 01,random asc,0.9,Label Propagation,NMI,0.37911859819405597
+Dancer 01,random asc,0.9,Louvain,P,978.0
+Dancer 01,random asc,0.9,Louvain,P*/P,0.006134969325153374
+Dancer 01,random asc,0.9,Louvain,Modularity,0.8868258964879523
+Dancer 01,random asc,0.9,Louvain,NMI,0.37873705479006975
+Dancer 01,betweenness asc,0.0,Louvain-igraph,P,9.0
+Dancer 01,betweenness asc,0.0,Louvain-igraph,P*/P,0.6666666666666666
+Dancer 01,betweenness asc,0.0,Louvain-igraph,Modularity,0.6493705588699038
+Dancer 01,betweenness asc,0.0,Louvain-igraph,NMI,0.7748315205164412
+Dancer 01,betweenness asc,0.0,Fastgreedy,P,8.0
+Dancer 01,betweenness asc,0.0,Fastgreedy,P*/P,0.75
+Dancer 01,betweenness asc,0.0,Fastgreedy,Modularity,0.6405248819384323
+Dancer 01,betweenness asc,0.0,Fastgreedy,NMI,0.7592452773222022
+Dancer 01,betweenness asc,0.0,Infomap,P,95.0
+Dancer 01,betweenness asc,0.0,Infomap,P*/P,0.06315789473684211
+Dancer 01,betweenness asc,0.0,Infomap,Modularity,0.6051574899436201
+Dancer 01,betweenness asc,0.0,Infomap,NMI,0.5591850397844547
+Dancer 01,betweenness asc,0.0,Label Propagation,P,7.0
+Dancer 01,betweenness asc,0.0,Label Propagation,P*/P,0.8571428571428571
+Dancer 01,betweenness asc,0.0,Label Propagation,Modularity,0.6469916362459794
+Dancer 01,betweenness asc,0.0,Label Propagation,NMI,0.8027060423411333
+Dancer 01,betweenness asc,0.0,Louvain,P,9.0
+Dancer 01,betweenness asc,0.0,Louvain,P*/P,0.6666666666666666
+Dancer 01,betweenness asc,0.0,Louvain,Modularity,0.6490016164704594
+Dancer 01,betweenness asc,0.0,Louvain,NMI,0.7723614321749338
+Dancer 01,betweenness desc,0.0,Louvain-igraph,P,8.0
+Dancer 01,betweenness desc,0.0,Louvain-igraph,P*/P,0.75
+Dancer 01,betweenness desc,0.0,Louvain-igraph,Modularity,0.6484513558559752
+Dancer 01,betweenness desc,0.0,Louvain-igraph,NMI,0.7904807073256612
+Dancer 01,betweenness desc,0.0,Fastgreedy,P,8.0
+Dancer 01,betweenness desc,0.0,Fastgreedy,P*/P,0.75
+Dancer 01,betweenness desc,0.0,Fastgreedy,Modularity,0.6405248819384323
+Dancer 01,betweenness desc,0.0,Fastgreedy,NMI,0.7592452773222022
+Dancer 01,betweenness desc,0.0,Infomap,P,98.0
+Dancer 01,betweenness desc,0.0,Infomap,P*/P,0.061224489795918366
+Dancer 01,betweenness desc,0.0,Infomap,Modularity,0.6042705855864818
+Dancer 01,betweenness desc,0.0,Infomap,NMI,0.5605357988981042
+Dancer 01,betweenness desc,0.0,Label Propagation,P,6.0
+Dancer 01,betweenness desc,0.0,Label Propagation,P*/P,1.0
+Dancer 01,betweenness desc,0.0,Label Propagation,Modularity,0.6473558448492428
+Dancer 01,betweenness desc,0.0,Label Propagation,NMI,0.8158716219418021
+Dancer 01,betweenness desc,0.0,Louvain,P,9.0
+Dancer 01,betweenness desc,0.0,Louvain,P*/P,0.6666666666666666
+Dancer 01,betweenness desc,0.0,Louvain,Modularity,0.6491404687328961
+Dancer 01,betweenness desc,0.0,Louvain,NMI,0.7732878229917862
+Dancer 01,betweenness asc,0.1,Louvain-igraph,P,17.0
+Dancer 01,betweenness asc,0.1,Louvain-igraph,P*/P,0.35294117647058826
+Dancer 01,betweenness asc,0.1,Louvain-igraph,Modularity,0.6549541930859134
+Dancer 01,betweenness asc,0.1,Louvain-igraph,NMI,0.735731038322524
+Dancer 01,betweenness asc,0.1,Fastgreedy,P,17.0
+Dancer 01,betweenness asc,0.1,Fastgreedy,P*/P,0.35294117647058826
+Dancer 01,betweenness asc,0.1,Fastgreedy,Modularity,0.6486454108300943
+Dancer 01,betweenness asc,0.1,Fastgreedy,NMI,0.7158133173254301
+Dancer 01,betweenness asc,0.1,Infomap,P,106.0
+Dancer 01,betweenness asc,0.1,Infomap,P*/P,0.05660377358490566
+Dancer 01,betweenness asc,0.1,Infomap,Modularity,0.6071422509266625
+Dancer 01,betweenness asc,0.1,Infomap,NMI,0.5374413981571373
+Dancer 01,betweenness asc,0.1,Label Propagation,P,17.0
+Dancer 01,betweenness asc,0.1,Label Propagation,P*/P,0.35294117647058826
+Dancer 01,betweenness asc,0.1,Label Propagation,Modularity,0.6513953780761421
+Dancer 01,betweenness asc,0.1,Label Propagation,NMI,0.7747850998650895
+Dancer 01,betweenness asc,0.1,Louvain,P,17.0
+Dancer 01,betweenness asc,0.1,Louvain,P*/P,0.35294117647058826
+Dancer 01,betweenness asc,0.1,Louvain,Modularity,0.6545333602416148
+Dancer 01,betweenness asc,0.1,Louvain,NMI,0.7347924628168733
+Dancer 01,betweenness desc,0.1,Louvain-igraph,P,25.0
+Dancer 01,betweenness desc,0.1,Louvain-igraph,P*/P,0.24
+Dancer 01,betweenness desc,0.1,Louvain-igraph,Modularity,0.669374493763784
+Dancer 01,betweenness desc,0.1,Louvain-igraph,NMI,0.7495060953501973
+Dancer 01,betweenness desc,0.1,Fastgreedy,P,24.0
+Dancer 01,betweenness desc,0.1,Fastgreedy,P*/P,0.25
+Dancer 01,betweenness desc,0.1,Fastgreedy,Modularity,0.6542365701971786
+Dancer 01,betweenness desc,0.1,Fastgreedy,NMI,0.6995534690630721
+Dancer 01,betweenness desc,0.1,Infomap,P,123.0
+Dancer 01,betweenness desc,0.1,Infomap,P*/P,0.04878048780487805
+Dancer 01,betweenness desc,0.1,Infomap,Modularity,0.6190755649033199
+Dancer 01,betweenness desc,0.1,Infomap,NMI,0.5334494682092997
+Dancer 01,betweenness desc,0.1,Label Propagation,P,23.0
+Dancer 01,betweenness desc,0.1,Label Propagation,P*/P,0.2608695652173913
+Dancer 01,betweenness desc,0.1,Label Propagation,Modularity,0.6668815789383897
+Dancer 01,betweenness desc,0.1,Label Propagation,NMI,0.7726188587133631
+Dancer 01,betweenness desc,0.1,Louvain,P,24.0
+Dancer 01,betweenness desc,0.1,Louvain,P*/P,0.25
+Dancer 01,betweenness desc,0.1,Louvain,Modularity,0.6690753260724188
+Dancer 01,betweenness desc,0.1,Louvain,NMI,0.7440483469379355
+Dancer 01,betweenness asc,0.2,Louvain-igraph,P,31.0
+Dancer 01,betweenness asc,0.2,Louvain-igraph,P*/P,0.1935483870967742
+Dancer 01,betweenness asc,0.2,Louvain-igraph,Modularity,0.6536017948389717
+Dancer 01,betweenness asc,0.2,Louvain-igraph,NMI,0.6842028443336493
+Dancer 01,betweenness asc,0.2,Fastgreedy,P,31.0
+Dancer 01,betweenness asc,0.2,Fastgreedy,P*/P,0.1935483870967742
+Dancer 01,betweenness asc,0.2,Fastgreedy,Modularity,0.6469329004663743
+Dancer 01,betweenness asc,0.2,Fastgreedy,NMI,0.6701518083794352
+Dancer 01,betweenness asc,0.2,Infomap,P,137.0
+Dancer 01,betweenness asc,0.2,Infomap,P*/P,0.043795620437956206
+Dancer 01,betweenness asc,0.2,Infomap,Modularity,0.5955825649380734
+Dancer 01,betweenness asc,0.2,Infomap,NMI,0.4861141065556471
+Dancer 01,betweenness asc,0.2,Label Propagation,P,28.0
+Dancer 01,betweenness asc,0.2,Label Propagation,P*/P,0.21428571428571427
+Dancer 01,betweenness asc,0.2,Label Propagation,Modularity,0.6508620862992335
+Dancer 01,betweenness asc,0.2,Label Propagation,NMI,0.7249335725889654
+Dancer 01,betweenness asc,0.2,Louvain,P,31.0
+Dancer 01,betweenness asc,0.2,Louvain,P*/P,0.1935483870967742
+Dancer 01,betweenness asc,0.2,Louvain,Modularity,0.653821178261034
+Dancer 01,betweenness asc,0.2,Louvain,NMI,0.6789654119651164
+Dancer 01,betweenness desc,0.2,Louvain-igraph,P,61.0
+Dancer 01,betweenness desc,0.2,Louvain-igraph,P*/P,0.09836065573770492
+Dancer 01,betweenness desc,0.2,Louvain-igraph,Modularity,0.6890778093634848
+Dancer 01,betweenness desc,0.2,Louvain-igraph,NMI,0.6846158804395734
+Dancer 01,betweenness desc,0.2,Fastgreedy,P,61.0
+Dancer 01,betweenness desc,0.2,Fastgreedy,P*/P,0.09836065573770492
+Dancer 01,betweenness desc,0.2,Fastgreedy,Modularity,0.6828342276139507
+Dancer 01,betweenness desc,0.2,Fastgreedy,NMI,0.6618384453402796
+Dancer 01,betweenness desc,0.2,Infomap,P,163.0
+Dancer 01,betweenness desc,0.2,Infomap,P*/P,0.03680981595092025
+Dancer 01,betweenness desc,0.2,Infomap,Modularity,0.6346543651093424
+Dancer 01,betweenness desc,0.2,Infomap,NMI,0.49598896812622245
+Dancer 01,betweenness desc,0.2,Label Propagation,P,58.0
+Dancer 01,betweenness desc,0.2,Label Propagation,P*/P,0.10344827586206896
+Dancer 01,betweenness desc,0.2,Label Propagation,Modularity,0.6859641895327023
+Dancer 01,betweenness desc,0.2,Label Propagation,NMI,0.6883067866576507
+Dancer 01,betweenness desc,0.2,Louvain,P,60.0
+Dancer 01,betweenness desc,0.2,Louvain,P*/P,0.1
+Dancer 01,betweenness desc,0.2,Louvain,Modularity,0.688818211719995
+Dancer 01,betweenness desc,0.2,Louvain,NMI,0.6726203810169579
+Dancer 01,betweenness asc,0.30000000000000004,Louvain-igraph,P,57.0
+Dancer 01,betweenness asc,0.30000000000000004,Louvain-igraph,P*/P,0.10526315789473684
+Dancer 01,betweenness asc,0.30000000000000004,Louvain-igraph,Modularity,0.6629055220360967
+Dancer 01,betweenness asc,0.30000000000000004,Louvain-igraph,NMI,0.6293116635697829
+Dancer 01,betweenness asc,0.30000000000000004,Fastgreedy,P,56.0
+Dancer 01,betweenness asc,0.30000000000000004,Fastgreedy,P*/P,0.10714285714285714
+Dancer 01,betweenness asc,0.30000000000000004,Fastgreedy,Modularity,0.6602595807782454
+Dancer 01,betweenness asc,0.30000000000000004,Fastgreedy,NMI,0.6384340364008818
+Dancer 01,betweenness asc,0.30000000000000004,Infomap,P,171.0
+Dancer 01,betweenness asc,0.30000000000000004,Infomap,P*/P,0.03508771929824561
+Dancer 01,betweenness asc,0.30000000000000004,Infomap,Modularity,0.5991060123648264
+Dancer 01,betweenness asc,0.30000000000000004,Infomap,NMI,0.4781309240200912
+Dancer 01,betweenness asc,0.30000000000000004,Label Propagation,P,52.0
+Dancer 01,betweenness asc,0.30000000000000004,Label Propagation,P*/P,0.11538461538461539
+Dancer 01,betweenness asc,0.30000000000000004,Label Propagation,Modularity,0.654776397155552
+Dancer 01,betweenness asc,0.30000000000000004,Label Propagation,NMI,0.6570412474674693
+Dancer 01,betweenness asc,0.30000000000000004,Louvain,P,59.0
+Dancer 01,betweenness asc,0.30000000000000004,Louvain,P*/P,0.1016949152542373
+Dancer 01,betweenness asc,0.30000000000000004,Louvain,Modularity,0.6627644566385804
+Dancer 01,betweenness asc,0.30000000000000004,Louvain,NMI,0.6301281932423116
+Dancer 01,betweenness desc,0.30000000000000004,Louvain-igraph,P,112.0
+Dancer 01,betweenness desc,0.30000000000000004,Louvain-igraph,P*/P,0.05357142857142857
+Dancer 01,betweenness desc,0.30000000000000004,Louvain-igraph,Modularity,0.7057264055387463
+Dancer 01,betweenness desc,0.30000000000000004,Louvain-igraph,NMI,0.6172326335753594
+Dancer 01,betweenness desc,0.30000000000000004,Fastgreedy,P,112.0
+Dancer 01,betweenness desc,0.30000000000000004,Fastgreedy,P*/P,0.05357142857142857
+Dancer 01,betweenness desc,0.30000000000000004,Fastgreedy,Modularity,0.7015225227308658
+Dancer 01,betweenness desc,0.30000000000000004,Fastgreedy,NMI,0.6325599143519999
+Dancer 01,betweenness desc,0.30000000000000004,Infomap,P,210.0
+Dancer 01,betweenness desc,0.30000000000000004,Infomap,P*/P,0.02857142857142857
+Dancer 01,betweenness desc,0.30000000000000004,Infomap,Modularity,0.6456435627997158
+Dancer 01,betweenness desc,0.30000000000000004,Infomap,NMI,0.4901877959061647
+Dancer 01,betweenness desc,0.30000000000000004,Label Propagation,P,106.0
+Dancer 01,betweenness desc,0.30000000000000004,Label Propagation,P*/P,0.05660377358490566
+Dancer 01,betweenness desc,0.30000000000000004,Label Propagation,Modularity,0.70144193407693
+Dancer 01,betweenness desc,0.30000000000000004,Label Propagation,NMI,0.6391570910148978
+Dancer 01,betweenness desc,0.30000000000000004,Louvain,P,112.0
+Dancer 01,betweenness desc,0.30000000000000004,Louvain,P*/P,0.05357142857142857
+Dancer 01,betweenness desc,0.30000000000000004,Louvain,Modularity,0.7056965461380978
+Dancer 01,betweenness desc,0.30000000000000004,Louvain,NMI,0.613875799686888
+Dancer 01,betweenness asc,0.4,Louvain-igraph,P,108.0
+Dancer 01,betweenness asc,0.4,Louvain-igraph,P*/P,0.05555555555555555
+Dancer 01,betweenness asc,0.4,Louvain-igraph,Modularity,0.670602961482493
+Dancer 01,betweenness asc,0.4,Louvain-igraph,NMI,0.5833086185065322
+Dancer 01,betweenness asc,0.4,Fastgreedy,P,108.0
+Dancer 01,betweenness asc,0.4,Fastgreedy,P*/P,0.05555555555555555
+Dancer 01,betweenness asc,0.4,Fastgreedy,Modularity,0.6696906674792368
+Dancer 01,betweenness asc,0.4,Fastgreedy,NMI,0.5863105622698993
+Dancer 01,betweenness asc,0.4,Infomap,P,215.0
+Dancer 01,betweenness asc,0.4,Infomap,P*/P,0.027906976744186046
+Dancer 01,betweenness asc,0.4,Infomap,Modularity,0.5982908673427166
+Dancer 01,betweenness asc,0.4,Infomap,NMI,0.4503362512769091
+Dancer 01,betweenness asc,0.4,Label Propagation,P,97.0
+Dancer 01,betweenness asc,0.4,Label Propagation,P*/P,0.061855670103092786
+Dancer 01,betweenness asc,0.4,Label Propagation,Modularity,0.6667722288136917
+Dancer 01,betweenness asc,0.4,Label Propagation,NMI,0.6043286114771512
+Dancer 01,betweenness asc,0.4,Louvain,P,101.0
+Dancer 01,betweenness asc,0.4,Louvain,P*/P,0.0594059405940594
+Dancer 01,betweenness asc,0.4,Louvain,Modularity,0.6705807917520927
+Dancer 01,betweenness asc,0.4,Louvain,NMI,0.5937550498423286
+Dancer 01,betweenness desc,0.4,Louvain-igraph,P,150.0
+Dancer 01,betweenness desc,0.4,Louvain-igraph,P*/P,0.04
+Dancer 01,betweenness desc,0.4,Louvain-igraph,Modularity,0.7360212531895987
+Dancer 01,betweenness desc,0.4,Louvain-igraph,NMI,0.5896113981110532
+Dancer 01,betweenness desc,0.4,Fastgreedy,P,150.0
+Dancer 01,betweenness desc,0.4,Fastgreedy,P*/P,0.04
+Dancer 01,betweenness desc,0.4,Fastgreedy,Modularity,0.7349240434805042
+Dancer 01,betweenness desc,0.4,Fastgreedy,NMI,0.5898923661557947
+Dancer 01,betweenness desc,0.4,Infomap,P,259.0
+Dancer 01,betweenness desc,0.4,Infomap,P*/P,0.023166023166023165
+Dancer 01,betweenness desc,0.4,Infomap,Modularity,0.6677795599404504
+Dancer 01,betweenness desc,0.4,Infomap,NMI,0.46632096718864985
+Dancer 01,betweenness desc,0.4,Label Propagation,P,147.0
+Dancer 01,betweenness desc,0.4,Label Propagation,P*/P,0.04081632653061224
+Dancer 01,betweenness desc,0.4,Label Propagation,Modularity,0.7319134948636529
+Dancer 01,betweenness desc,0.4,Label Propagation,NMI,0.610100053151509
+Dancer 01,betweenness desc,0.4,Louvain,P,151.0
+Dancer 01,betweenness desc,0.4,Louvain,P*/P,0.039735099337748346
+Dancer 01,betweenness desc,0.4,Louvain,Modularity,0.7353177001543967
+Dancer 01,betweenness desc,0.4,Louvain,NMI,0.5901633113834037
+Dancer 01,betweenness asc,0.5,Louvain-igraph,P,143.0
+Dancer 01,betweenness asc,0.5,Louvain-igraph,P*/P,0.04195804195804196
+Dancer 01,betweenness asc,0.5,Louvain-igraph,Modularity,0.6771630131435057
+Dancer 01,betweenness asc,0.5,Louvain-igraph,NMI,0.5443108959369645
+Dancer 01,betweenness asc,0.5,Fastgreedy,P,146.0
+Dancer 01,betweenness asc,0.5,Fastgreedy,P*/P,0.0410958904109589
+Dancer 01,betweenness asc,0.5,Fastgreedy,Modularity,0.6825495548987669
+Dancer 01,betweenness asc,0.5,Fastgreedy,NMI,0.547620621344046
+Dancer 01,betweenness asc,0.5,Infomap,P,269.0
+Dancer 01,betweenness asc,0.5,Infomap,P*/P,0.022304832713754646
+Dancer 01,betweenness asc,0.5,Infomap,Modularity,0.5873631069072226
+Dancer 01,betweenness asc,0.5,Infomap,NMI,0.42465363260853783
+Dancer 01,betweenness asc,0.5,Label Propagation,P,137.0
+Dancer 01,betweenness asc,0.5,Label Propagation,P*/P,0.043795620437956206
+Dancer 01,betweenness asc,0.5,Label Propagation,Modularity,0.6776382586374847
+Dancer 01,betweenness asc,0.5,Label Propagation,NMI,0.5523265405571853
+Dancer 01,betweenness asc,0.5,Louvain,P,148.0
+Dancer 01,betweenness asc,0.5,Louvain,P*/P,0.04054054054054054
+Dancer 01,betweenness asc,0.5,Louvain,Modularity,0.6832795615551062
+Dancer 01,betweenness asc,0.5,Louvain,NMI,0.5555637781761025
+Dancer 01,betweenness desc,0.5,Louvain-igraph,P,251.0
+Dancer 01,betweenness desc,0.5,Louvain-igraph,P*/P,0.02390438247011952
+Dancer 01,betweenness desc,0.5,Louvain-igraph,Modularity,0.7599401427021857
+Dancer 01,betweenness desc,0.5,Louvain-igraph,NMI,0.5665751689205732
+Dancer 01,betweenness desc,0.5,Fastgreedy,P,251.0
+Dancer 01,betweenness desc,0.5,Fastgreedy,P*/P,0.02390438247011952
+Dancer 01,betweenness desc,0.5,Fastgreedy,Modularity,0.7571809269339591
+Dancer 01,betweenness desc,0.5,Fastgreedy,NMI,0.5580002220219227
+Dancer 01,betweenness desc,0.5,Infomap,P,357.0
+Dancer 01,betweenness desc,0.5,Infomap,P*/P,0.01680672268907563
+Dancer 01,betweenness desc,0.5,Infomap,Modularity,0.6824868061844231
+Dancer 01,betweenness desc,0.5,Infomap,NMI,0.45001379445401646
+Dancer 01,betweenness desc,0.5,Label Propagation,P,244.0
+Dancer 01,betweenness desc,0.5,Label Propagation,P*/P,0.02459016393442623
+Dancer 01,betweenness desc,0.5,Label Propagation,Modularity,0.7543580640667134
+Dancer 01,betweenness desc,0.5,Label Propagation,NMI,0.5686530487780878
+Dancer 01,betweenness desc,0.5,Louvain,P,250.0
+Dancer 01,betweenness desc,0.5,Louvain,P*/P,0.024
+Dancer 01,betweenness desc,0.5,Louvain,Modularity,0.7599039654423199
+Dancer 01,betweenness desc,0.5,Louvain,NMI,0.5672154174052726
+Dancer 01,betweenness asc,0.6000000000000001,Louvain-igraph,P,254.0
+Dancer 01,betweenness asc,0.6000000000000001,Louvain-igraph,P*/P,0.023622047244094488
+Dancer 01,betweenness asc,0.6000000000000001,Louvain-igraph,Modularity,0.6922472807927879
+Dancer 01,betweenness asc,0.6000000000000001,Louvain-igraph,NMI,0.4793973736881845
+Dancer 01,betweenness asc,0.6000000000000001,Fastgreedy,P,260.0
+Dancer 01,betweenness asc,0.6000000000000001,Fastgreedy,P*/P,0.023076923076923078
+Dancer 01,betweenness asc,0.6000000000000001,Fastgreedy,Modularity,0.6993340985735282
+Dancer 01,betweenness asc,0.6000000000000001,Fastgreedy,NMI,0.47763016629424715
+Dancer 01,betweenness asc,0.6000000000000001,Infomap,P,380.0
+Dancer 01,betweenness asc,0.6000000000000001,Infomap,P*/P,0.015789473684210527
+Dancer 01,betweenness asc,0.6000000000000001,Infomap,Modularity,0.5887691756126963
+Dancer 01,betweenness asc,0.6000000000000001,Infomap,NMI,0.38624479269518014
+Dancer 01,betweenness asc,0.6000000000000001,Label Propagation,P,262.0
+Dancer 01,betweenness asc,0.6000000000000001,Label Propagation,P*/P,0.022900763358778626
+Dancer 01,betweenness asc,0.6000000000000001,Label Propagation,Modularity,0.6867574414500597
+Dancer 01,betweenness asc,0.6000000000000001,Label Propagation,NMI,0.49846078177014014
+Dancer 01,betweenness asc,0.6000000000000001,Louvain,P,255.0
+Dancer 01,betweenness asc,0.6000000000000001,Louvain,P*/P,0.023529411764705882
+Dancer 01,betweenness asc,0.6000000000000001,Louvain,Modularity,0.6944104729408881
+Dancer 01,betweenness asc,0.6000000000000001,Louvain,NMI,0.48155944942363493
+Dancer 01,betweenness desc,0.6000000000000001,Louvain-igraph,P,349.0
+Dancer 01,betweenness desc,0.6000000000000001,Louvain-igraph,P*/P,0.017191977077363897
+Dancer 01,betweenness desc,0.6000000000000001,Louvain-igraph,Modularity,0.7808673079546418
+Dancer 01,betweenness desc,0.6000000000000001,Louvain-igraph,NMI,0.5301979375908529
+Dancer 01,betweenness desc,0.6000000000000001,Fastgreedy,P,350.0
+Dancer 01,betweenness desc,0.6000000000000001,Fastgreedy,P*/P,0.017142857142857144
+Dancer 01,betweenness desc,0.6000000000000001,Fastgreedy,Modularity,0.7783746833563282
+Dancer 01,betweenness desc,0.6000000000000001,Fastgreedy,NMI,0.5321947413350481
+Dancer 01,betweenness desc,0.6000000000000001,Infomap,P,469.0
+Dancer 01,betweenness desc,0.6000000000000001,Infomap,P*/P,0.01279317697228145
+Dancer 01,betweenness desc,0.6000000000000001,Infomap,Modularity,0.6847991935191439
+Dancer 01,betweenness desc,0.6000000000000001,Infomap,NMI,0.43544305544435014
+Dancer 01,betweenness desc,0.6000000000000001,Label Propagation,P,354.0
+Dancer 01,betweenness desc,0.6000000000000001,Label Propagation,P*/P,0.01694915254237288
+Dancer 01,betweenness desc,0.6000000000000001,Label Propagation,Modularity,0.7734670302061231
+Dancer 01,betweenness desc,0.6000000000000001,Label Propagation,NMI,0.5316084731827195
+Dancer 01,betweenness desc,0.6000000000000001,Louvain,P,351.0
+Dancer 01,betweenness desc,0.6000000000000001,Louvain,P*/P,0.017094017094017096
+Dancer 01,betweenness desc,0.6000000000000001,Louvain,Modularity,0.7795766666206199
+Dancer 01,betweenness desc,0.6000000000000001,Louvain,NMI,0.5299897748133966
+Dancer 01,betweenness asc,0.7000000000000001,Louvain-igraph,P,376.0
+Dancer 01,betweenness asc,0.7000000000000001,Louvain-igraph,P*/P,0.015957446808510637
+Dancer 01,betweenness asc,0.7000000000000001,Louvain-igraph,Modularity,0.7034539318112165
+Dancer 01,betweenness asc,0.7000000000000001,Louvain-igraph,NMI,0.4090738790223177
+Dancer 01,betweenness asc,0.7000000000000001,Fastgreedy,P,383.0
+Dancer 01,betweenness asc,0.7000000000000001,Fastgreedy,P*/P,0.015665796344647518
+Dancer 01,betweenness asc,0.7000000000000001,Fastgreedy,Modularity,0.7187783055891779
+Dancer 01,betweenness asc,0.7000000000000001,Fastgreedy,NMI,0.4436885913534589
+Dancer 01,betweenness asc,0.7000000000000001,Infomap,P,498.0
+Dancer 01,betweenness asc,0.7000000000000001,Infomap,P*/P,0.012048192771084338
+Dancer 01,betweenness asc,0.7000000000000001,Infomap,Modularity,0.5947877137170898
+Dancer 01,betweenness asc,0.7000000000000001,Infomap,NMI,0.37712856159713987
+Dancer 01,betweenness asc,0.7000000000000001,Label Propagation,P,411.0
+Dancer 01,betweenness asc,0.7000000000000001,Label Propagation,P*/P,0.014598540145985401
+Dancer 01,betweenness asc,0.7000000000000001,Label Propagation,Modularity,0.6618960267178841
+Dancer 01,betweenness asc,0.7000000000000001,Label Propagation,NMI,0.4067816665825206
+Dancer 01,betweenness asc,0.7000000000000001,Louvain,P,374.0
+Dancer 01,betweenness asc,0.7000000000000001,Louvain,P*/P,0.016042780748663103
+Dancer 01,betweenness asc,0.7000000000000001,Louvain,Modularity,0.7101522057662469
+Dancer 01,betweenness asc,0.7000000000000001,Louvain,NMI,0.43744485576286546
+Dancer 01,betweenness desc,0.7000000000000001,Louvain-igraph,P,481.0
+Dancer 01,betweenness desc,0.7000000000000001,Louvain-igraph,P*/P,0.012474012474012475
+Dancer 01,betweenness desc,0.7000000000000001,Louvain-igraph,Modularity,0.8003766819791414
+Dancer 01,betweenness desc,0.7000000000000001,Louvain-igraph,NMI,0.513159655005203
+Dancer 01,betweenness desc,0.7000000000000001,Fastgreedy,P,486.0
+Dancer 01,betweenness desc,0.7000000000000001,Fastgreedy,P*/P,0.012345679012345678
+Dancer 01,betweenness desc,0.7000000000000001,Fastgreedy,Modularity,0.8008054927688265
+Dancer 01,betweenness desc,0.7000000000000001,Fastgreedy,NMI,0.5121549110254756
+Dancer 01,betweenness desc,0.7000000000000001,Infomap,P,589.0
+Dancer 01,betweenness desc,0.7000000000000001,Infomap,P*/P,0.010186757215619695
+Dancer 01,betweenness desc,0.7000000000000001,Infomap,Modularity,0.6945787955654589
+Dancer 01,betweenness desc,0.7000000000000001,Infomap,NMI,0.431803620906388
+Dancer 01,betweenness desc,0.7000000000000001,Label Propagation,P,499.0
+Dancer 01,betweenness desc,0.7000000000000001,Label Propagation,P*/P,0.012024048096192385
+Dancer 01,betweenness desc,0.7000000000000001,Label Propagation,Modularity,0.792688497836468
+Dancer 01,betweenness desc,0.7000000000000001,Label Propagation,NMI,0.511519925492159
+Dancer 01,betweenness desc,0.7000000000000001,Louvain,P,483.0
+Dancer 01,betweenness desc,0.7000000000000001,Louvain,P*/P,0.012422360248447204
+Dancer 01,betweenness desc,0.7000000000000001,Louvain,Modularity,0.8019028454809541
+Dancer 01,betweenness desc,0.7000000000000001,Louvain,NMI,0.5107625503270377
+Dancer 01,betweenness asc,0.8,Louvain-igraph,P,597.0
+Dancer 01,betweenness asc,0.8,Louvain-igraph,P*/P,0.010050251256281407
+Dancer 01,betweenness asc,0.8,Louvain-igraph,Modularity,0.7665725297476687
+Dancer 01,betweenness asc,0.8,Louvain-igraph,NMI,0.37904471756650093
+Dancer 01,betweenness asc,0.8,Fastgreedy,P,605.0
+Dancer 01,betweenness asc,0.8,Fastgreedy,P*/P,0.009917355371900827
+Dancer 01,betweenness asc,0.8,Fastgreedy,Modularity,0.7705039188701489
+Dancer 01,betweenness asc,0.8,Fastgreedy,NMI,0.3982721801786017
+Dancer 01,betweenness asc,0.8,Infomap,P,706.0
+Dancer 01,betweenness asc,0.8,Infomap,P*/P,0.0084985835694051
+Dancer 01,betweenness asc,0.8,Infomap,Modularity,0.6482270112808883
+Dancer 01,betweenness asc,0.8,Infomap,NMI,0.3571386209993525
+Dancer 01,betweenness asc,0.8,Label Propagation,P,676.0
+Dancer 01,betweenness asc,0.8,Label Propagation,P*/P,0.008875739644970414
+Dancer 01,betweenness asc,0.8,Label Propagation,Modularity,0.6615346792811853
+Dancer 01,betweenness asc,0.8,Label Propagation,NMI,0.3610480368347146
+Dancer 01,betweenness asc,0.8,Louvain,P,595.0
+Dancer 01,betweenness asc,0.8,Louvain,P*/P,0.010084033613445379
+Dancer 01,betweenness asc,0.8,Louvain,Modularity,0.763117940810296
+Dancer 01,betweenness asc,0.8,Louvain,NMI,0.3758675066181217
+Dancer 01,betweenness desc,0.8,Louvain-igraph,P,725.0
+Dancer 01,betweenness desc,0.8,Louvain-igraph,P*/P,0.008275862068965517
+Dancer 01,betweenness desc,0.8,Louvain-igraph,Modularity,0.8222592946897098
+Dancer 01,betweenness desc,0.8,Louvain-igraph,NMI,0.4725950047146297
+Dancer 01,betweenness desc,0.8,Fastgreedy,P,729.0
+Dancer 01,betweenness desc,0.8,Fastgreedy,P*/P,0.00823045267489712
+Dancer 01,betweenness desc,0.8,Fastgreedy,Modularity,0.8232191545462857
+Dancer 01,betweenness desc,0.8,Fastgreedy,NMI,0.47482446626170954
+Dancer 01,betweenness desc,0.8,Infomap,P,808.0
+Dancer 01,betweenness desc,0.8,Infomap,P*/P,0.007425742574257425
+Dancer 01,betweenness desc,0.8,Infomap,Modularity,0.7265864991944675
+Dancer 01,betweenness desc,0.8,Infomap,NMI,0.4201389445527209
+Dancer 01,betweenness desc,0.8,Label Propagation,P,771.0
+Dancer 01,betweenness desc,0.8,Label Propagation,P*/P,0.007782101167315175
+Dancer 01,betweenness desc,0.8,Label Propagation,Modularity,0.7622947104318426
+Dancer 01,betweenness desc,0.8,Label Propagation,NMI,0.4397680219369491
+Dancer 01,betweenness desc,0.8,Louvain,P,723.0
+Dancer 01,betweenness desc,0.8,Louvain,P*/P,0.008298755186721992
+Dancer 01,betweenness desc,0.8,Louvain,Modularity,0.8218202672671159
+Dancer 01,betweenness desc,0.8,Louvain,NMI,0.47416586903673746
+Dancer 01,betweenness asc,0.9,Louvain-igraph,P,964.0
+Dancer 01,betweenness asc,0.9,Louvain-igraph,P*/P,0.006224066390041493
+Dancer 01,betweenness asc,0.9,Louvain-igraph,Modularity,0.8903804213627193
+Dancer 01,betweenness asc,0.9,Louvain-igraph,NMI,0.3786126053471061
+Dancer 01,betweenness asc,0.9,Fastgreedy,P,964.0
+Dancer 01,betweenness asc,0.9,Fastgreedy,P*/P,0.006224066390041493
+Dancer 01,betweenness asc,0.9,Fastgreedy,Modularity,0.8914449657325487
+Dancer 01,betweenness asc,0.9,Fastgreedy,NMI,0.3766247389608682
+Dancer 01,betweenness asc,0.9,Infomap,P,1022.0
+Dancer 01,betweenness asc,0.9,Infomap,P*/P,0.005870841487279843
+Dancer 01,betweenness asc,0.9,Infomap,Modularity,0.8305768569953423
+Dancer 01,betweenness asc,0.9,Infomap,NMI,0.3745742295490722
+Dancer 01,betweenness asc,0.9,Label Propagation,P,1011.0
+Dancer 01,betweenness asc,0.9,Label Propagation,P*/P,0.005934718100890208
+Dancer 01,betweenness asc,0.9,Label Propagation,Modularity,0.8358469128213272
+Dancer 01,betweenness asc,0.9,Label Propagation,NMI,0.37808625900710363
+Dancer 01,betweenness asc,0.9,Louvain,P,963.0
+Dancer 01,betweenness asc,0.9,Louvain,P*/P,0.006230529595015576
+Dancer 01,betweenness asc,0.9,Louvain,Modularity,0.8924248991143463
+Dancer 01,betweenness asc,0.9,Louvain,NMI,0.3821678570845791
+Dancer 01,betweenness desc,0.9,Louvain-igraph,P,1062.0
+Dancer 01,betweenness desc,0.9,Louvain-igraph,P*/P,0.005649717514124294
+Dancer 01,betweenness desc,0.9,Louvain-igraph,Modularity,0.8520283325937059
+Dancer 01,betweenness desc,0.9,Louvain-igraph,NMI,0.4262006997422027
+Dancer 01,betweenness desc,0.9,Fastgreedy,P,1066.0
+Dancer 01,betweenness desc,0.9,Fastgreedy,P*/P,0.005628517823639775
+Dancer 01,betweenness desc,0.9,Fastgreedy,Modularity,0.8528191863185751
+Dancer 01,betweenness desc,0.9,Fastgreedy,NMI,0.42599600022113504
+Dancer 01,betweenness desc,0.9,Infomap,P,1106.0
+Dancer 01,betweenness desc,0.9,Infomap,P*/P,0.0054249547920434
+Dancer 01,betweenness desc,0.9,Infomap,Modularity,0.8006280207417787
+Dancer 01,betweenness desc,0.9,Infomap,NMI,0.4052878083534795
+Dancer 01,betweenness desc,0.9,Label Propagation,P,1109.0
+Dancer 01,betweenness desc,0.9,Label Propagation,P*/P,0.005410279531109108
+Dancer 01,betweenness desc,0.9,Label Propagation,Modularity,0.7723118312062589
+Dancer 01,betweenness desc,0.9,Label Propagation,NMI,0.40715431479175235
+Dancer 01,betweenness desc,0.9,Louvain,P,1063.0
+Dancer 01,betweenness desc,0.9,Louvain,P*/P,0.005644402634054563
+Dancer 01,betweenness desc,0.9,Louvain,Modularity,0.8504189970662428
+Dancer 01,betweenness desc,0.9,Louvain,NMI,0.4271867641891379
+Dancer 03,random asc,0.0,Louvain-igraph,P,9.0
+Dancer 03,random asc,0.0,Louvain-igraph,P*/P,0.5555555555555556
+Dancer 03,random asc,0.0,Louvain-igraph,Modularity,0.6547949801881934
+Dancer 03,random asc,0.0,Louvain-igraph,NMI,0.6852985365222591
+Dancer 03,random asc,0.0,Fastgreedy,P,9.0
+Dancer 03,random asc,0.0,Fastgreedy,P*/P,0.5555555555555556
+Dancer 03,random asc,0.0,Fastgreedy,Modularity,0.6535952513889542
+Dancer 03,random asc,0.0,Fastgreedy,NMI,0.6711603306217883
+Dancer 03,random asc,0.0,Infomap,P,85.0
+Dancer 03,random asc,0.0,Infomap,P*/P,0.058823529411764705
+Dancer 03,random asc,0.0,Infomap,Modularity,0.6392171931262005
+Dancer 03,random asc,0.0,Infomap,NMI,0.528663111637579
+Dancer 03,random asc,0.0,Label Propagation,P,5.0
+Dancer 03,random asc,0.0,Label Propagation,P*/P,1.0
+Dancer 03,random asc,0.0,Label Propagation,Modularity,0.6520080190103767
+Dancer 03,random asc,0.0,Label Propagation,NMI,0.7383337487982955
+Dancer 03,random asc,0.0,Louvain,P,9.0
+Dancer 03,random asc,0.0,Louvain,P*/P,0.5555555555555556
+Dancer 03,random asc,0.0,Louvain,Modularity,0.654766765853424
+Dancer 03,random asc,0.0,Louvain,NMI,0.6860417858258258
+Dancer 03,random asc,0.1,Louvain-igraph,P,12.0
+Dancer 03,random asc,0.1,Louvain-igraph,P*/P,0.4166666666666667
+Dancer 03,random asc,0.1,Louvain-igraph,Modularity,0.6573388751421706
+Dancer 03,random asc,0.1,Louvain-igraph,NMI,0.6654448646093541
+Dancer 03,random asc,0.1,Fastgreedy,P,13.0
+Dancer 03,random asc,0.1,Fastgreedy,P*/P,0.38461538461538464
+Dancer 03,random asc,0.1,Fastgreedy,Modularity,0.6537366931540635
+Dancer 03,random asc,0.1,Fastgreedy,NMI,0.6576866166719938
+Dancer 03,random asc,0.1,Infomap,P,94.0
+Dancer 03,random asc,0.1,Infomap,P*/P,0.05319148936170213
+Dancer 03,random asc,0.1,Infomap,Modularity,0.6403895162735334
+Dancer 03,random asc,0.1,Infomap,NMI,0.5103981627758567
+Dancer 03,random asc,0.1,Label Propagation,P,7.0
+Dancer 03,random asc,0.1,Label Propagation,P*/P,0.7142857142857143
+Dancer 03,random asc,0.1,Label Propagation,Modularity,0.6539088429318817
+Dancer 03,random asc,0.1,Label Propagation,NMI,0.7269679436612909
+Dancer 03,random asc,0.1,Louvain,P,12.0
+Dancer 03,random asc,0.1,Louvain,P*/P,0.4166666666666667
+Dancer 03,random asc,0.1,Louvain,Modularity,0.6572178078642679
+Dancer 03,random asc,0.1,Louvain,NMI,0.6650288758046693
+Dancer 03,random asc,0.2,Louvain-igraph,P,25.0
+Dancer 03,random asc,0.2,Louvain-igraph,P*/P,0.2
+Dancer 03,random asc,0.2,Louvain-igraph,Modularity,0.6572477198356406
+Dancer 03,random asc,0.2,Louvain-igraph,NMI,0.6357914526527971
+Dancer 03,random asc,0.2,Fastgreedy,P,25.0
+Dancer 03,random asc,0.2,Fastgreedy,P*/P,0.2
+Dancer 03,random asc,0.2,Fastgreedy,Modularity,0.6563975141445977
+Dancer 03,random asc,0.2,Fastgreedy,NMI,0.6355207478272248
+Dancer 03,random asc,0.2,Infomap,P,119.0
+Dancer 03,random asc,0.2,Infomap,P*/P,0.04201680672268908
+Dancer 03,random asc,0.2,Infomap,Modularity,0.6346045300539649
+Dancer 03,random asc,0.2,Infomap,NMI,0.491358259972888
+Dancer 03,random asc,0.2,Label Propagation,P,20.0
+Dancer 03,random asc,0.2,Label Propagation,P*/P,0.25
+Dancer 03,random asc,0.2,Label Propagation,Modularity,0.6533829603525279
+Dancer 03,random asc,0.2,Label Propagation,NMI,0.6948735107711868
+Dancer 03,random asc,0.2,Louvain,P,24.0
+Dancer 03,random asc,0.2,Louvain,P*/P,0.20833333333333334
+Dancer 03,random asc,0.2,Louvain,Modularity,0.657198332758911
+Dancer 03,random asc,0.2,Louvain,NMI,0.6375545040038872
+Dancer 03,random asc,0.30000000000000004,Louvain-igraph,P,43.0
+Dancer 03,random asc,0.30000000000000004,Louvain-igraph,P*/P,0.11627906976744186
+Dancer 03,random asc,0.30000000000000004,Louvain-igraph,Modularity,0.6632349706961386
+Dancer 03,random asc,0.30000000000000004,Louvain-igraph,NMI,0.6036818125039618
+Dancer 03,random asc,0.30000000000000004,Fastgreedy,P,42.0
+Dancer 03,random asc,0.30000000000000004,Fastgreedy,P*/P,0.11904761904761904
+Dancer 03,random asc,0.30000000000000004,Fastgreedy,Modularity,0.6605211271827849
+Dancer 03,random asc,0.30000000000000004,Fastgreedy,NMI,0.6032121046536127
+Dancer 03,random asc,0.30000000000000004,Infomap,P,133.0
+Dancer 03,random asc,0.30000000000000004,Infomap,P*/P,0.03759398496240601
+Dancer 03,random asc,0.30000000000000004,Infomap,Modularity,0.6387340295575312
+Dancer 03,random asc,0.30000000000000004,Infomap,NMI,0.46925841652882383
+Dancer 03,random asc,0.30000000000000004,Label Propagation,P,37.0
+Dancer 03,random asc,0.30000000000000004,Label Propagation,P*/P,0.13513513513513514
+Dancer 03,random asc,0.30000000000000004,Label Propagation,Modularity,0.6594112765404484
+Dancer 03,random asc,0.30000000000000004,Label Propagation,NMI,0.6465869197870431
+Dancer 03,random asc,0.30000000000000004,Louvain,P,43.0
+Dancer 03,random asc,0.30000000000000004,Louvain,P*/P,0.11627906976744186
+Dancer 03,random asc,0.30000000000000004,Louvain,Modularity,0.6633484470236438
+Dancer 03,random asc,0.30000000000000004,Louvain,NMI,0.6029380726219312
+Dancer 03,random asc,0.4,Louvain-igraph,P,92.0
+Dancer 03,random asc,0.4,Louvain-igraph,P*/P,0.05434782608695652
+Dancer 03,random asc,0.4,Louvain-igraph,Modularity,0.6659502241587798
+Dancer 03,random asc,0.4,Louvain-igraph,NMI,0.5678156327559908
+Dancer 03,random asc,0.4,Fastgreedy,P,91.0
+Dancer 03,random asc,0.4,Fastgreedy,P*/P,0.054945054945054944
+Dancer 03,random asc,0.4,Fastgreedy,Modularity,0.6618128064319596
+Dancer 03,random asc,0.4,Fastgreedy,NMI,0.5640651456507207
+Dancer 03,random asc,0.4,Infomap,P,183.0
+Dancer 03,random asc,0.4,Infomap,P*/P,0.0273224043715847
+Dancer 03,random asc,0.4,Infomap,Modularity,0.6352405826165759
+Dancer 03,random asc,0.4,Infomap,NMI,0.4521183171904211
+Dancer 03,random asc,0.4,Label Propagation,P,83.0
+Dancer 03,random asc,0.4,Label Propagation,P*/P,0.060240963855421686
+Dancer 03,random asc,0.4,Label Propagation,Modularity,0.6621620765110421
+Dancer 03,random asc,0.4,Label Propagation,NMI,0.617836444515925
+Dancer 03,random asc,0.4,Louvain,P,90.0
+Dancer 03,random asc,0.4,Louvain,P*/P,0.05555555555555555
+Dancer 03,random asc,0.4,Louvain,Modularity,0.6659658102529815
+Dancer 03,random asc,0.4,Louvain,NMI,0.5682874988861604
+Dancer 03,random asc,0.5,Louvain-igraph,P,155.0
+Dancer 03,random asc,0.5,Louvain-igraph,P*/P,0.03225806451612903
+Dancer 03,random asc,0.5,Louvain-igraph,Modularity,0.6698963628573729
+Dancer 03,random asc,0.5,Louvain-igraph,NMI,0.5453144817897339
+Dancer 03,random asc,0.5,Fastgreedy,P,158.0
+Dancer 03,random asc,0.5,Fastgreedy,P*/P,0.03164556962025317
+Dancer 03,random asc,0.5,Fastgreedy,Modularity,0.6698238492319111
+Dancer 03,random asc,0.5,Fastgreedy,NMI,0.5493970723840148
+Dancer 03,random asc,0.5,Infomap,P,260.0
+Dancer 03,random asc,0.5,Infomap,P*/P,0.019230769230769232
+Dancer 03,random asc,0.5,Infomap,Modularity,0.6346129949754213
+Dancer 03,random asc,0.5,Infomap,NMI,0.43194032161251705
+Dancer 03,random asc,0.5,Label Propagation,P,149.0
+Dancer 03,random asc,0.5,Label Propagation,P*/P,0.03355704697986577
+Dancer 03,random asc,0.5,Label Propagation,Modularity,0.667960696432374
+Dancer 03,random asc,0.5,Label Propagation,NMI,0.5806206338966434
+Dancer 03,random asc,0.5,Louvain,P,157.0
+Dancer 03,random asc,0.5,Louvain,P*/P,0.03184713375796178
+Dancer 03,random asc,0.5,Louvain,Modularity,0.6720510717821173
+Dancer 03,random asc,0.5,Louvain,NMI,0.5443179155763085
+Dancer 03,random asc,0.6000000000000001,Louvain-igraph,P,215.0
+Dancer 03,random asc,0.6000000000000001,Louvain-igraph,P*/P,0.023255813953488372
+Dancer 03,random asc,0.6000000000000001,Louvain-igraph,Modularity,0.6779226316448451
+Dancer 03,random asc,0.6000000000000001,Louvain-igraph,NMI,0.5057131179062182
+Dancer 03,random asc,0.6000000000000001,Fastgreedy,P,214.0
+Dancer 03,random asc,0.6000000000000001,Fastgreedy,P*/P,0.02336448598130841
+Dancer 03,random asc,0.6000000000000001,Fastgreedy,Modularity,0.6752319032783121
+Dancer 03,random asc,0.6000000000000001,Fastgreedy,NMI,0.5024079083490428
+Dancer 03,random asc,0.6000000000000001,Infomap,P,317.0
+Dancer 03,random asc,0.6000000000000001,Infomap,P*/P,0.015772870662460567
+Dancer 03,random asc,0.6000000000000001,Infomap,Modularity,0.6295640668134295
+Dancer 03,random asc,0.6000000000000001,Infomap,NMI,0.41132173205568595
+Dancer 03,random asc,0.6000000000000001,Label Propagation,P,211.0
+Dancer 03,random asc,0.6000000000000001,Label Propagation,P*/P,0.023696682464454975
+Dancer 03,random asc,0.6000000000000001,Label Propagation,Modularity,0.6723071565151116
+Dancer 03,random asc,0.6000000000000001,Label Propagation,NMI,0.5290577594592226
+Dancer 03,random asc,0.6000000000000001,Louvain,P,214.0
+Dancer 03,random asc,0.6000000000000001,Louvain,P*/P,0.02336448598130841
+Dancer 03,random asc,0.6000000000000001,Louvain,Modularity,0.6777143958115797
+Dancer 03,random asc,0.6000000000000001,Louvain,NMI,0.5045002602991585
+Dancer 03,random asc,0.7000000000000001,Louvain-igraph,P,396.0
+Dancer 03,random asc,0.7000000000000001,Louvain-igraph,P*/P,0.012626262626262626
+Dancer 03,random asc,0.7000000000000001,Louvain-igraph,Modularity,0.6888248639360183
+Dancer 03,random asc,0.7000000000000001,Louvain-igraph,NMI,0.47187476886093827
+Dancer 03,random asc,0.7000000000000001,Fastgreedy,P,397.0
+Dancer 03,random asc,0.7000000000000001,Fastgreedy,P*/P,0.012594458438287154
+Dancer 03,random asc,0.7000000000000001,Fastgreedy,Modularity,0.6870969337157263
+Dancer 03,random asc,0.7000000000000001,Fastgreedy,NMI,0.47609329477146506
+Dancer 03,random asc,0.7000000000000001,Infomap,P,506.0
+Dancer 03,random asc,0.7000000000000001,Infomap,P*/P,0.009881422924901186
+Dancer 03,random asc,0.7000000000000001,Infomap,Modularity,0.6341245626167502
+Dancer 03,random asc,0.7000000000000001,Infomap,NMI,0.40100976605326305
+Dancer 03,random asc,0.7000000000000001,Label Propagation,P,393.0
+Dancer 03,random asc,0.7000000000000001,Label Propagation,P*/P,0.01272264631043257
+Dancer 03,random asc,0.7000000000000001,Label Propagation,Modularity,0.6844389278418465
+Dancer 03,random asc,0.7000000000000001,Label Propagation,NMI,0.4898000885379477
+Dancer 03,random asc,0.7000000000000001,Louvain,P,398.0
+Dancer 03,random asc,0.7000000000000001,Louvain,P*/P,0.01256281407035176
+Dancer 03,random asc,0.7000000000000001,Louvain,Modularity,0.688800559463243
+Dancer 03,random asc,0.7000000000000001,Louvain,NMI,0.4723225498050435
+Dancer 03,random asc,0.8,Louvain-igraph,P,563.0
+Dancer 03,random asc,0.8,Louvain-igraph,P*/P,0.008880994671403197
+Dancer 03,random asc,0.8,Louvain-igraph,Modularity,0.6976118611947496
+Dancer 03,random asc,0.8,Louvain-igraph,NMI,0.4300736132375599
+Dancer 03,random asc,0.8,Fastgreedy,P,567.0
+Dancer 03,random asc,0.8,Fastgreedy,P*/P,0.008818342151675485
+Dancer 03,random asc,0.8,Fastgreedy,Modularity,0.7015505519364877
+Dancer 03,random asc,0.8,Fastgreedy,NMI,0.42835823159569447
+Dancer 03,random asc,0.8,Infomap,P,666.0
+Dancer 03,random asc,0.8,Infomap,P*/P,0.0075075075075075074
+Dancer 03,random asc,0.8,Infomap,Modularity,0.6043929063306474
+Dancer 03,random asc,0.8,Infomap,NMI,0.36935843030103954
+Dancer 03,random asc,0.8,Label Propagation,P,570.0
+Dancer 03,random asc,0.8,Label Propagation,P*/P,0.008771929824561403
+Dancer 03,random asc,0.8,Label Propagation,Modularity,0.6803985174722148
+Dancer 03,random asc,0.8,Label Propagation,NMI,0.4218078803187988
+Dancer 03,random asc,0.8,Louvain,P,565.0
+Dancer 03,random asc,0.8,Louvain,P*/P,0.008849557522123894
+Dancer 03,random asc,0.8,Louvain,Modularity,0.6962774646295076
+Dancer 03,random asc,0.8,Louvain,NMI,0.4196990664259251
+Dancer 03,random asc,0.9,Louvain-igraph,P,992.0
+Dancer 03,random asc,0.9,Louvain-igraph,P*/P,0.005040322580645161
+Dancer 03,random asc,0.9,Louvain-igraph,Modularity,0.7327706002382653
+Dancer 03,random asc,0.9,Louvain-igraph,NMI,0.36769636590160054
+Dancer 03,random asc,0.9,Fastgreedy,P,1002.0
+Dancer 03,random asc,0.9,Fastgreedy,P*/P,0.00499001996007984
+Dancer 03,random asc,0.9,Fastgreedy,Modularity,0.7392935683647018
+Dancer 03,random asc,0.9,Fastgreedy,NMI,0.37574265927958056
+Dancer 03,random asc,0.9,Infomap,P,1122.0
+Dancer 03,random asc,0.9,Infomap,P*/P,0.004456327985739751
+Dancer 03,random asc,0.9,Infomap,Modularity,0.5690394927975747
+Dancer 03,random asc,0.9,Infomap,NMI,0.3260349728852713
+Dancer 03,random asc,0.9,Label Propagation,P,1012.0
+Dancer 03,random asc,0.9,Label Propagation,P*/P,0.004940711462450593
+Dancer 03,random asc,0.9,Label Propagation,Modularity,0.7073630435255941
+Dancer 03,random asc,0.9,Label Propagation,NMI,0.37496627498233825
+Dancer 03,random asc,0.9,Louvain,P,993.0
+Dancer 03,random asc,0.9,Louvain,P*/P,0.005035246727089627
+Dancer 03,random asc,0.9,Louvain,Modularity,0.7328202714556321
+Dancer 03,random asc,0.9,Louvain,NMI,0.37050207653467093
+Dancer 03,betweenness asc,0.0,Louvain-igraph,P,9.0
+Dancer 03,betweenness asc,0.0,Louvain-igraph,P*/P,0.5555555555555556
+Dancer 03,betweenness asc,0.0,Louvain-igraph,Modularity,0.6548444321125824
+Dancer 03,betweenness asc,0.0,Louvain-igraph,NMI,0.6859220923007882
+Dancer 03,betweenness asc,0.0,Fastgreedy,P,9.0
+Dancer 03,betweenness asc,0.0,Fastgreedy,P*/P,0.5555555555555556
+Dancer 03,betweenness asc,0.0,Fastgreedy,Modularity,0.6535952513889542
+Dancer 03,betweenness asc,0.0,Fastgreedy,NMI,0.6711603306217883
+Dancer 03,betweenness asc,0.0,Infomap,P,85.0
+Dancer 03,betweenness asc,0.0,Infomap,P*/P,0.058823529411764705
+Dancer 03,betweenness asc,0.0,Infomap,Modularity,0.6399871785456884
+Dancer 03,betweenness asc,0.0,Infomap,NMI,0.5318513280449917
+Dancer 03,betweenness asc,0.0,Label Propagation,P,5.0
+Dancer 03,betweenness asc,0.0,Label Propagation,P*/P,1.0
+Dancer 03,betweenness asc,0.0,Label Propagation,Modularity,0.6519798027303279
+Dancer 03,betweenness asc,0.0,Label Propagation,NMI,0.7446481150243306
+Dancer 03,betweenness asc,0.0,Louvain,P,9.0
+Dancer 03,betweenness asc,0.0,Louvain,P*/P,0.5555555555555556
+Dancer 03,betweenness asc,0.0,Louvain,Modularity,0.6548870570783483
+Dancer 03,betweenness asc,0.0,Louvain,NMI,0.6879031328870656
+Dancer 03,betweenness desc,0.0,Louvain-igraph,P,10.0
+Dancer 03,betweenness desc,0.0,Louvain-igraph,P*/P,0.5
+Dancer 03,betweenness desc,0.0,Louvain-igraph,Modularity,0.6547855241842417
+Dancer 03,betweenness desc,0.0,Louvain-igraph,NMI,0.6823532403384767
+Dancer 03,betweenness desc,0.0,Fastgreedy,P,9.0
+Dancer 03,betweenness desc,0.0,Fastgreedy,P*/P,0.5555555555555556
+Dancer 03,betweenness desc,0.0,Fastgreedy,Modularity,0.6535952513889542
+Dancer 03,betweenness desc,0.0,Fastgreedy,NMI,0.6711603306217883
+Dancer 03,betweenness desc,0.0,Infomap,P,87.0
+Dancer 03,betweenness desc,0.0,Infomap,P*/P,0.05747126436781609
+Dancer 03,betweenness desc,0.0,Infomap,Modularity,0.6396538694823112
+Dancer 03,betweenness desc,0.0,Infomap,NMI,0.5293738258145664
+Dancer 03,betweenness desc,0.0,Label Propagation,P,5.0
+Dancer 03,betweenness desc,0.0,Label Propagation,P*/P,1.0
+Dancer 03,betweenness desc,0.0,Label Propagation,Modularity,0.6518039358409529
+Dancer 03,betweenness desc,0.0,Label Propagation,NMI,0.7466344435204437
+Dancer 03,betweenness desc,0.0,Louvain,P,9.0
+Dancer 03,betweenness desc,0.0,Louvain,P*/P,0.5555555555555556
+Dancer 03,betweenness desc,0.0,Louvain,Modularity,0.6548161341307919
+Dancer 03,betweenness desc,0.0,Louvain,NMI,0.6849195426851833
+Dancer 03,betweenness asc,0.1,Louvain-igraph,P,13.0
+Dancer 03,betweenness asc,0.1,Louvain-igraph,P*/P,0.38461538461538464
+Dancer 03,betweenness asc,0.1,Louvain-igraph,Modularity,0.6567363064918869
+Dancer 03,betweenness asc,0.1,Louvain-igraph,NMI,0.6520613611449648
+Dancer 03,betweenness asc,0.1,Fastgreedy,P,13.0
+Dancer 03,betweenness asc,0.1,Fastgreedy,P*/P,0.38461538461538464
+Dancer 03,betweenness asc,0.1,Fastgreedy,Modularity,0.6538133889492099
+Dancer 03,betweenness asc,0.1,Fastgreedy,NMI,0.6437994953977727
+Dancer 03,betweenness asc,0.1,Infomap,P,96.0
+Dancer 03,betweenness asc,0.1,Infomap,P*/P,0.052083333333333336
+Dancer 03,betweenness asc,0.1,Infomap,Modularity,0.6392817949885679
+Dancer 03,betweenness asc,0.1,Infomap,NMI,0.5023870020650025
+Dancer 03,betweenness asc,0.1,Label Propagation,P,8.0
+Dancer 03,betweenness asc,0.1,Label Propagation,P*/P,0.625
+Dancer 03,betweenness asc,0.1,Label Propagation,Modularity,0.6535500154469868
+Dancer 03,betweenness asc,0.1,Label Propagation,NMI,0.7271266448433565
+Dancer 03,betweenness asc,0.1,Louvain,P,13.0
+Dancer 03,betweenness asc,0.1,Louvain,P*/P,0.38461538461538464
+Dancer 03,betweenness asc,0.1,Louvain,Modularity,0.6566710214671952
+Dancer 03,betweenness asc,0.1,Louvain,NMI,0.649413628427349
+Dancer 03,betweenness desc,0.1,Louvain-igraph,P,47.0
+Dancer 03,betweenness desc,0.1,Louvain-igraph,P*/P,0.10638297872340426
+Dancer 03,betweenness desc,0.1,Louvain-igraph,Modularity,0.6853053370878719
+Dancer 03,betweenness desc,0.1,Louvain-igraph,NMI,0.6547937611509169
+Dancer 03,betweenness desc,0.1,Fastgreedy,P,45.0
+Dancer 03,betweenness desc,0.1,Fastgreedy,P*/P,0.1111111111111111
+Dancer 03,betweenness desc,0.1,Fastgreedy,Modularity,0.6842419608690616
+Dancer 03,betweenness desc,0.1,Fastgreedy,NMI,0.6646361185844877
+Dancer 03,betweenness desc,0.1,Infomap,P,136.0
+Dancer 03,betweenness desc,0.1,Infomap,P*/P,0.03676470588235294
+Dancer 03,betweenness desc,0.1,Infomap,Modularity,0.6647952750961809
+Dancer 03,betweenness desc,0.1,Infomap,NMI,0.516885203863261
+Dancer 03,betweenness desc,0.1,Label Propagation,P,43.0
+Dancer 03,betweenness desc,0.1,Label Propagation,P*/P,0.11627906976744186
+Dancer 03,betweenness desc,0.1,Label Propagation,Modularity,0.6828617523548646
+Dancer 03,betweenness desc,0.1,Label Propagation,NMI,0.6951639509301264
+Dancer 03,betweenness desc,0.1,Louvain,P,48.0
+Dancer 03,betweenness desc,0.1,Louvain,P*/P,0.10416666666666667
+Dancer 03,betweenness desc,0.1,Louvain,Modularity,0.6852890032237761
+Dancer 03,betweenness desc,0.1,Louvain,NMI,0.653151418959064
+Dancer 03,betweenness asc,0.2,Louvain-igraph,P,32.0
+Dancer 03,betweenness asc,0.2,Louvain-igraph,P*/P,0.15625
+Dancer 03,betweenness asc,0.2,Louvain-igraph,Modularity,0.6600553490857265
+Dancer 03,betweenness asc,0.2,Louvain-igraph,NMI,0.625316079967388
+Dancer 03,betweenness asc,0.2,Fastgreedy,P,30.0
+Dancer 03,betweenness asc,0.2,Fastgreedy,P*/P,0.16666666666666666
+Dancer 03,betweenness asc,0.2,Fastgreedy,Modularity,0.6580413991383913
+Dancer 03,betweenness asc,0.2,Fastgreedy,NMI,0.6209608295108794
+Dancer 03,betweenness asc,0.2,Infomap,P,123.0
+Dancer 03,betweenness asc,0.2,Infomap,P*/P,0.04065040650406504
+Dancer 03,betweenness asc,0.2,Infomap,Modularity,0.6373826188448203
+Dancer 03,betweenness asc,0.2,Infomap,NMI,0.4865248991253988
+Dancer 03,betweenness asc,0.2,Label Propagation,P,26.0
+Dancer 03,betweenness asc,0.2,Label Propagation,P*/P,0.19230769230769232
+Dancer 03,betweenness asc,0.2,Label Propagation,Modularity,0.6571257771117082
+Dancer 03,betweenness asc,0.2,Label Propagation,NMI,0.6674361960366918
+Dancer 03,betweenness asc,0.2,Louvain,P,29.0
+Dancer 03,betweenness asc,0.2,Louvain,P*/P,0.1724137931034483
+Dancer 03,betweenness asc,0.2,Louvain,Modularity,0.660192081034888
+Dancer 03,betweenness asc,0.2,Louvain,NMI,0.6329570668909003
+Dancer 03,betweenness desc,0.2,Louvain-igraph,P,143.0
+Dancer 03,betweenness desc,0.2,Louvain-igraph,P*/P,0.03496503496503497
+Dancer 03,betweenness desc,0.2,Louvain-igraph,Modularity,0.7116644370020204
+Dancer 03,betweenness desc,0.2,Louvain-igraph,NMI,0.6286486024208525
+Dancer 03,betweenness desc,0.2,Fastgreedy,P,142.0
+Dancer 03,betweenness desc,0.2,Fastgreedy,P*/P,0.035211267605633804
+Dancer 03,betweenness desc,0.2,Fastgreedy,Modularity,0.71098983892391
+Dancer 03,betweenness desc,0.2,Fastgreedy,NMI,0.630609911447435
+Dancer 03,betweenness desc,0.2,Infomap,P,229.0
+Dancer 03,betweenness desc,0.2,Infomap,P*/P,0.021834061135371178
+Dancer 03,betweenness desc,0.2,Infomap,Modularity,0.6930130250554489
+Dancer 03,betweenness desc,0.2,Infomap,NMI,0.5125402261213114
+Dancer 03,betweenness desc,0.2,Label Propagation,P,140.0
+Dancer 03,betweenness desc,0.2,Label Propagation,P*/P,0.03571428571428571
+Dancer 03,betweenness desc,0.2,Label Propagation,Modularity,0.7096305750922743
+Dancer 03,betweenness desc,0.2,Label Propagation,NMI,0.6607339516026247
+Dancer 03,betweenness desc,0.2,Louvain,P,143.0
+Dancer 03,betweenness desc,0.2,Louvain,P*/P,0.03496503496503497
+Dancer 03,betweenness desc,0.2,Louvain,Modularity,0.7117239069506565
+Dancer 03,betweenness desc,0.2,Louvain,NMI,0.63237730964184
+Dancer 03,betweenness asc,0.30000000000000004,Louvain-igraph,P,45.0
+Dancer 03,betweenness asc,0.30000000000000004,Louvain-igraph,P*/P,0.1111111111111111
+Dancer 03,betweenness asc,0.30000000000000004,Louvain-igraph,Modularity,0.6598787615376136
+Dancer 03,betweenness asc,0.30000000000000004,Louvain-igraph,NMI,0.6218685821551352
+Dancer 03,betweenness asc,0.30000000000000004,Fastgreedy,P,46.0
+Dancer 03,betweenness asc,0.30000000000000004,Fastgreedy,P*/P,0.10869565217391304
+Dancer 03,betweenness asc,0.30000000000000004,Fastgreedy,Modularity,0.659255544799424
+Dancer 03,betweenness asc,0.30000000000000004,Fastgreedy,NMI,0.6205956720423919
+Dancer 03,betweenness asc,0.30000000000000004,Infomap,P,133.0
+Dancer 03,betweenness asc,0.30000000000000004,Infomap,P*/P,0.03759398496240601
+Dancer 03,betweenness asc,0.30000000000000004,Infomap,Modularity,0.6341999423119357
+Dancer 03,betweenness asc,0.30000000000000004,Infomap,NMI,0.4893930937889846
+Dancer 03,betweenness asc,0.30000000000000004,Label Propagation,P,39.0
+Dancer 03,betweenness asc,0.30000000000000004,Label Propagation,P*/P,0.1282051282051282
+Dancer 03,betweenness asc,0.30000000000000004,Label Propagation,Modularity,0.6558948997156181
+Dancer 03,betweenness asc,0.30000000000000004,Label Propagation,NMI,0.6732610568391822
+Dancer 03,betweenness asc,0.30000000000000004,Louvain,P,45.0
+Dancer 03,betweenness asc,0.30000000000000004,Louvain,P*/P,0.1111111111111111
+Dancer 03,betweenness asc,0.30000000000000004,Louvain,Modularity,0.6599197109829747
+Dancer 03,betweenness asc,0.30000000000000004,Louvain,NMI,0.6188198369791162
+Dancer 03,betweenness desc,0.30000000000000004,Louvain-igraph,P,254.0
+Dancer 03,betweenness desc,0.30000000000000004,Louvain-igraph,P*/P,0.01968503937007874
+Dancer 03,betweenness desc,0.30000000000000004,Louvain-igraph,Modularity,0.732903169915778
+Dancer 03,betweenness desc,0.30000000000000004,Louvain-igraph,NMI,0.5800621193423963
+Dancer 03,betweenness desc,0.30000000000000004,Fastgreedy,P,256.0
+Dancer 03,betweenness desc,0.30000000000000004,Fastgreedy,P*/P,0.01953125
+Dancer 03,betweenness desc,0.30000000000000004,Fastgreedy,Modularity,0.7325493815538169
+Dancer 03,betweenness desc,0.30000000000000004,Fastgreedy,NMI,0.5754848865256441
+Dancer 03,betweenness desc,0.30000000000000004,Infomap,P,364.0
+Dancer 03,betweenness desc,0.30000000000000004,Infomap,P*/P,0.013736263736263736
+Dancer 03,betweenness desc,0.30000000000000004,Infomap,Modularity,0.7092177840599071
+Dancer 03,betweenness desc,0.30000000000000004,Infomap,NMI,0.4895278462221425
+Dancer 03,betweenness desc,0.30000000000000004,Label Propagation,P,253.0
+Dancer 03,betweenness desc,0.30000000000000004,Label Propagation,P*/P,0.019762845849802372
+Dancer 03,betweenness desc,0.30000000000000004,Label Propagation,Modularity,0.731475865803698
+Dancer 03,betweenness desc,0.30000000000000004,Label Propagation,NMI,0.6048539634009722
+Dancer 03,betweenness desc,0.30000000000000004,Louvain,P,256.0
+Dancer 03,betweenness desc,0.30000000000000004,Louvain,P*/P,0.01953125
+Dancer 03,betweenness desc,0.30000000000000004,Louvain,Modularity,0.7328715706467012
+Dancer 03,betweenness desc,0.30000000000000004,Louvain,NMI,0.5806377160993663
+Dancer 03,betweenness asc,0.4,Louvain-igraph,P,89.0
+Dancer 03,betweenness asc,0.4,Louvain-igraph,P*/P,0.056179775280898875
+Dancer 03,betweenness asc,0.4,Louvain-igraph,Modularity,0.6664395394413716
+Dancer 03,betweenness asc,0.4,Louvain-igraph,NMI,0.5653645310458916
+Dancer 03,betweenness asc,0.4,Fastgreedy,P,88.0
+Dancer 03,betweenness asc,0.4,Fastgreedy,P*/P,0.056818181818181816
+Dancer 03,betweenness asc,0.4,Fastgreedy,Modularity,0.6645809010849236
+Dancer 03,betweenness asc,0.4,Fastgreedy,NMI,0.5569677599332126
+Dancer 03,betweenness asc,0.4,Infomap,P,184.0
+Dancer 03,betweenness asc,0.4,Infomap,P*/P,0.02717391304347826
+Dancer 03,betweenness asc,0.4,Infomap,Modularity,0.6328147147167117
+Dancer 03,betweenness asc,0.4,Infomap,NMI,0.4511390016946306
+Dancer 03,betweenness asc,0.4,Label Propagation,P,76.0
+Dancer 03,betweenness asc,0.4,Label Propagation,P*/P,0.06578947368421052
+Dancer 03,betweenness asc,0.4,Label Propagation,Modularity,0.6616333353534827
+Dancer 03,betweenness asc,0.4,Label Propagation,NMI,0.6159052219497656
+Dancer 03,betweenness asc,0.4,Louvain,P,89.0
+Dancer 03,betweenness asc,0.4,Louvain,P*/P,0.056179775280898875
+Dancer 03,betweenness asc,0.4,Louvain,Modularity,0.6663762359618701
+Dancer 03,betweenness asc,0.4,Louvain,NMI,0.5669425175896403
+Dancer 03,betweenness desc,0.4,Louvain-igraph,P,409.0
+Dancer 03,betweenness desc,0.4,Louvain-igraph,P*/P,0.012224938875305624
+Dancer 03,betweenness desc,0.4,Louvain-igraph,Modularity,0.7519416993514447
+Dancer 03,betweenness desc,0.4,Louvain-igraph,NMI,0.5448647167004886
+Dancer 03,betweenness desc,0.4,Fastgreedy,P,410.0
+Dancer 03,betweenness desc,0.4,Fastgreedy,P*/P,0.012195121951219513
+Dancer 03,betweenness desc,0.4,Fastgreedy,Modularity,0.7516146210175131
+Dancer 03,betweenness desc,0.4,Fastgreedy,NMI,0.5429141615962885
+Dancer 03,betweenness desc,0.4,Infomap,P,504.0
+Dancer 03,betweenness desc,0.4,Infomap,P*/P,0.00992063492063492
+Dancer 03,betweenness desc,0.4,Infomap,Modularity,0.7282289524130294
+Dancer 03,betweenness desc,0.4,Infomap,NMI,0.47514662007319813
+Dancer 03,betweenness desc,0.4,Label Propagation,P,401.0
+Dancer 03,betweenness desc,0.4,Label Propagation,P*/P,0.012468827930174564
+Dancer 03,betweenness desc,0.4,Label Propagation,Modularity,0.7506485884688421
+Dancer 03,betweenness desc,0.4,Label Propagation,NMI,0.5598844929418005
+Dancer 03,betweenness desc,0.4,Louvain,P,408.0
+Dancer 03,betweenness desc,0.4,Louvain,P*/P,0.012254901960784314
+Dancer 03,betweenness desc,0.4,Louvain,Modularity,0.751942226182502
+Dancer 03,betweenness desc,0.4,Louvain,NMI,0.5461944735968567
+Dancer 03,betweenness asc,0.5,Louvain-igraph,P,155.0
+Dancer 03,betweenness asc,0.5,Louvain-igraph,P*/P,0.03225806451612903
+Dancer 03,betweenness asc,0.5,Louvain-igraph,Modularity,0.6745937558345948
+Dancer 03,betweenness asc,0.5,Louvain-igraph,NMI,0.5310543877095862
+Dancer 03,betweenness asc,0.5,Fastgreedy,P,154.0
+Dancer 03,betweenness asc,0.5,Fastgreedy,P*/P,0.032467532467532464
+Dancer 03,betweenness asc,0.5,Fastgreedy,Modularity,0.6742191241475985
+Dancer 03,betweenness asc,0.5,Fastgreedy,NMI,0.5286405083936687
+Dancer 03,betweenness asc,0.5,Infomap,P,262.0
+Dancer 03,betweenness asc,0.5,Infomap,P*/P,0.019083969465648856
+Dancer 03,betweenness asc,0.5,Infomap,Modularity,0.6349871442756388
+Dancer 03,betweenness asc,0.5,Infomap,NMI,0.42549730918592704
+Dancer 03,betweenness asc,0.5,Label Propagation,P,142.0
+Dancer 03,betweenness asc,0.5,Label Propagation,P*/P,0.035211267605633804
+Dancer 03,betweenness asc,0.5,Label Propagation,Modularity,0.669055021961864
+Dancer 03,betweenness asc,0.5,Label Propagation,NMI,0.5610198786811044
+Dancer 03,betweenness asc,0.5,Louvain,P,154.0
+Dancer 03,betweenness asc,0.5,Louvain,P*/P,0.032467532467532464
+Dancer 03,betweenness asc,0.5,Louvain,Modularity,0.6741969382459886
+Dancer 03,betweenness asc,0.5,Louvain,NMI,0.5333497569685671
+Dancer 03,betweenness desc,0.5,Louvain-igraph,P,541.0
+Dancer 03,betweenness desc,0.5,Louvain-igraph,P*/P,0.009242144177449169
+Dancer 03,betweenness desc,0.5,Louvain-igraph,Modularity,0.7688086398024064
+Dancer 03,betweenness desc,0.5,Louvain-igraph,NMI,0.5363784961407121
+Dancer 03,betweenness desc,0.5,Fastgreedy,P,539.0
+Dancer 03,betweenness desc,0.5,Fastgreedy,P*/P,0.00927643784786642
+Dancer 03,betweenness desc,0.5,Fastgreedy,Modularity,0.7679443116208001
+Dancer 03,betweenness desc,0.5,Fastgreedy,NMI,0.5317373497786421
+Dancer 03,betweenness desc,0.5,Infomap,P,646.0
+Dancer 03,betweenness desc,0.5,Infomap,P*/P,0.007739938080495356
+Dancer 03,betweenness desc,0.5,Infomap,Modularity,0.7433821143851262
+Dancer 03,betweenness desc,0.5,Infomap,NMI,0.47418630517755966
+Dancer 03,betweenness desc,0.5,Label Propagation,P,543.0
+Dancer 03,betweenness desc,0.5,Label Propagation,P*/P,0.009208103130755065
+Dancer 03,betweenness desc,0.5,Label Propagation,Modularity,0.7680668106311099
+Dancer 03,betweenness desc,0.5,Label Propagation,NMI,0.5389146840709867
+Dancer 03,betweenness desc,0.5,Louvain,P,541.0
+Dancer 03,betweenness desc,0.5,Louvain,P*/P,0.009242144177449169
+Dancer 03,betweenness desc,0.5,Louvain,Modularity,0.7688086398024064
+Dancer 03,betweenness desc,0.5,Louvain,NMI,0.5363784961407121
+Dancer 03,betweenness asc,0.6000000000000001,Louvain-igraph,P,247.0
+Dancer 03,betweenness asc,0.6000000000000001,Louvain-igraph,P*/P,0.020242914979757085
+Dancer 03,betweenness asc,0.6000000000000001,Louvain-igraph,Modularity,0.6766938268933651
+Dancer 03,betweenness asc,0.6000000000000001,Louvain-igraph,NMI,0.4967615562945611
+Dancer 03,betweenness asc,0.6000000000000001,Fastgreedy,P,246.0
+Dancer 03,betweenness asc,0.6000000000000001,Fastgreedy,P*/P,0.02032520325203252
+Dancer 03,betweenness asc,0.6000000000000001,Fastgreedy,Modularity,0.6742930156117614
+Dancer 03,betweenness asc,0.6000000000000001,Fastgreedy,NMI,0.5064728520594025
+Dancer 03,betweenness asc,0.6000000000000001,Infomap,P,358.0
+Dancer 03,betweenness asc,0.6000000000000001,Infomap,P*/P,0.013966480446927373
+Dancer 03,betweenness asc,0.6000000000000001,Infomap,Modularity,0.6343872356254011
+Dancer 03,betweenness asc,0.6000000000000001,Infomap,NMI,0.4143812717565919
+Dancer 03,betweenness asc,0.6000000000000001,Label Propagation,P,236.0
+Dancer 03,betweenness asc,0.6000000000000001,Label Propagation,P*/P,0.0211864406779661
+Dancer 03,betweenness asc,0.6000000000000001,Label Propagation,Modularity,0.6729287946621219
+Dancer 03,betweenness asc,0.6000000000000001,Label Propagation,NMI,0.5290733298482406
+Dancer 03,betweenness asc,0.6000000000000001,Louvain,P,245.0
+Dancer 03,betweenness asc,0.6000000000000001,Louvain,P*/P,0.02040816326530612
+Dancer 03,betweenness asc,0.6000000000000001,Louvain,Modularity,0.6765499745334888
+Dancer 03,betweenness asc,0.6000000000000001,Louvain,NMI,0.49885137984118744
+Dancer 03,betweenness desc,0.6000000000000001,Louvain-igraph,P,744.0
+Dancer 03,betweenness desc,0.6000000000000001,Louvain-igraph,P*/P,0.006720430107526882
+Dancer 03,betweenness desc,0.6000000000000001,Louvain-igraph,Modularity,0.7750766608845324
+Dancer 03,betweenness desc,0.6000000000000001,Louvain-igraph,NMI,0.5090981748434791
+Dancer 03,betweenness desc,0.6000000000000001,Fastgreedy,P,745.0
+Dancer 03,betweenness desc,0.6000000000000001,Fastgreedy,P*/P,0.006711409395973154
+Dancer 03,betweenness desc,0.6000000000000001,Fastgreedy,Modularity,0.7748595269671509
+Dancer 03,betweenness desc,0.6000000000000001,Fastgreedy,NMI,0.5071782369025206
+Dancer 03,betweenness desc,0.6000000000000001,Infomap,P,829.0
+Dancer 03,betweenness desc,0.6000000000000001,Infomap,P*/P,0.006031363088057901
+Dancer 03,betweenness desc,0.6000000000000001,Infomap,Modularity,0.7526495017923812
+Dancer 03,betweenness desc,0.6000000000000001,Infomap,NMI,0.46472884117832564
+Dancer 03,betweenness desc,0.6000000000000001,Label Propagation,P,740.0
+Dancer 03,betweenness desc,0.6000000000000001,Label Propagation,P*/P,0.006756756756756757
+Dancer 03,betweenness desc,0.6000000000000001,Label Propagation,Modularity,0.7746200870602159
+Dancer 03,betweenness desc,0.6000000000000001,Label Propagation,NMI,0.5130217659898499
+Dancer 03,betweenness desc,0.6000000000000001,Louvain,P,744.0
+Dancer 03,betweenness desc,0.6000000000000001,Louvain,P*/P,0.006720430107526882
+Dancer 03,betweenness desc,0.6000000000000001,Louvain,Modularity,0.7750766608845325
+Dancer 03,betweenness desc,0.6000000000000001,Louvain,NMI,0.5090981748434791
+Dancer 03,betweenness asc,0.7000000000000001,Louvain-igraph,P,368.0
+Dancer 03,betweenness asc,0.7000000000000001,Louvain-igraph,P*/P,0.01358695652173913
+Dancer 03,betweenness asc,0.7000000000000001,Louvain-igraph,Modularity,0.6820209732146335
+Dancer 03,betweenness asc,0.7000000000000001,Louvain-igraph,NMI,0.44231278424442316
+Dancer 03,betweenness asc,0.7000000000000001,Fastgreedy,P,368.0
+Dancer 03,betweenness asc,0.7000000000000001,Fastgreedy,P*/P,0.01358695652173913
+Dancer 03,betweenness asc,0.7000000000000001,Fastgreedy,Modularity,0.68145649129781
+Dancer 03,betweenness asc,0.7000000000000001,Fastgreedy,NMI,0.4587362503171628
+Dancer 03,betweenness asc,0.7000000000000001,Infomap,P,477.0
+Dancer 03,betweenness asc,0.7000000000000001,Infomap,P*/P,0.010482180293501049
+Dancer 03,betweenness asc,0.7000000000000001,Infomap,Modularity,0.6261397165906102
+Dancer 03,betweenness asc,0.7000000000000001,Infomap,NMI,0.38768200408013687
+Dancer 03,betweenness asc,0.7000000000000001,Label Propagation,P,359.0
+Dancer 03,betweenness asc,0.7000000000000001,Label Propagation,P*/P,0.013927576601671309
+Dancer 03,betweenness asc,0.7000000000000001,Label Propagation,Modularity,0.67699972749596
+Dancer 03,betweenness asc,0.7000000000000001,Label Propagation,NMI,0.4816341069045005
+Dancer 03,betweenness asc,0.7000000000000001,Louvain,P,369.0
+Dancer 03,betweenness asc,0.7000000000000001,Louvain,P*/P,0.013550135501355014
+Dancer 03,betweenness asc,0.7000000000000001,Louvain,Modularity,0.6836625355619066
+Dancer 03,betweenness asc,0.7000000000000001,Louvain,NMI,0.45030257014892927
+Dancer 03,betweenness desc,0.7000000000000001,Louvain-igraph,P,927.0
+Dancer 03,betweenness desc,0.7000000000000001,Louvain-igraph,P*/P,0.005393743257820928
+Dancer 03,betweenness desc,0.7000000000000001,Louvain-igraph,Modularity,0.7816705759872583
+Dancer 03,betweenness desc,0.7000000000000001,Louvain-igraph,NMI,0.47844150261300644
+Dancer 03,betweenness desc,0.7000000000000001,Fastgreedy,P,927.0
+Dancer 03,betweenness desc,0.7000000000000001,Fastgreedy,P*/P,0.005393743257820928
+Dancer 03,betweenness desc,0.7000000000000001,Fastgreedy,Modularity,0.7815822845054563
+Dancer 03,betweenness desc,0.7000000000000001,Fastgreedy,NMI,0.4788606361695184
+Dancer 03,betweenness desc,0.7000000000000001,Infomap,P,1007.0
+Dancer 03,betweenness desc,0.7000000000000001,Infomap,P*/P,0.004965243296921549
+Dancer 03,betweenness desc,0.7000000000000001,Infomap,Modularity,0.7563636977069093
+Dancer 03,betweenness desc,0.7000000000000001,Infomap,NMI,0.44191953828147285
+Dancer 03,betweenness desc,0.7000000000000001,Label Propagation,P,921.0
+Dancer 03,betweenness desc,0.7000000000000001,Label Propagation,P*/P,0.0054288816503800215
+Dancer 03,betweenness desc,0.7000000000000001,Label Propagation,Modularity,0.7811500560958898
+Dancer 03,betweenness desc,0.7000000000000001,Label Propagation,NMI,0.48227077591392337
+Dancer 03,betweenness desc,0.7000000000000001,Louvain,P,925.0
+Dancer 03,betweenness desc,0.7000000000000001,Louvain,P*/P,0.005405405405405406
+Dancer 03,betweenness desc,0.7000000000000001,Louvain,Modularity,0.7816681660728837
+Dancer 03,betweenness desc,0.7000000000000001,Louvain,NMI,0.4793137051878361
+Dancer 03,betweenness asc,0.8,Louvain-igraph,P,571.0
+Dancer 03,betweenness asc,0.8,Louvain-igraph,P*/P,0.008756567425569177
+Dancer 03,betweenness asc,0.8,Louvain-igraph,Modularity,0.7003468794102953
+Dancer 03,betweenness asc,0.8,Louvain-igraph,NMI,0.4188468401022201
+Dancer 03,betweenness asc,0.8,Fastgreedy,P,577.0
+Dancer 03,betweenness asc,0.8,Fastgreedy,P*/P,0.008665511265164644
+Dancer 03,betweenness asc,0.8,Fastgreedy,Modularity,0.7042055846418094
+Dancer 03,betweenness asc,0.8,Fastgreedy,NMI,0.4244799618668329
+Dancer 03,betweenness asc,0.8,Infomap,P,685.0
+Dancer 03,betweenness asc,0.8,Infomap,P*/P,0.0072992700729927005
+Dancer 03,betweenness asc,0.8,Infomap,Modularity,0.5953972107180587
+Dancer 03,betweenness asc,0.8,Infomap,NMI,0.3641579251346668
+Dancer 03,betweenness asc,0.8,Label Propagation,P,571.0
+Dancer 03,betweenness asc,0.8,Label Propagation,P*/P,0.008756567425569177
+Dancer 03,betweenness asc,0.8,Label Propagation,Modularity,0.6835812600513704
+Dancer 03,betweenness asc,0.8,Label Propagation,NMI,0.43092897888400045
+Dancer 03,betweenness asc,0.8,Louvain,P,567.0
+Dancer 03,betweenness asc,0.8,Louvain,P*/P,0.008818342151675485
+Dancer 03,betweenness asc,0.8,Louvain,Modularity,0.6982798252960859
+Dancer 03,betweenness asc,0.8,Louvain,NMI,0.42114987778241203
+Dancer 03,betweenness desc,0.8,Louvain-igraph,P,1159.0
+Dancer 03,betweenness desc,0.8,Louvain-igraph,P*/P,0.004314063848144953
+Dancer 03,betweenness desc,0.8,Louvain-igraph,Modularity,0.7888657981715156
+Dancer 03,betweenness desc,0.8,Louvain-igraph,NMI,0.44033152494847017
+Dancer 03,betweenness desc,0.8,Fastgreedy,P,1159.0
+Dancer 03,betweenness desc,0.8,Fastgreedy,P*/P,0.004314063848144953
+Dancer 03,betweenness desc,0.8,Fastgreedy,Modularity,0.7888511139015534
+Dancer 03,betweenness desc,0.8,Fastgreedy,NMI,0.4399583796099656
+Dancer 03,betweenness desc,0.8,Infomap,P,1229.0
+Dancer 03,betweenness desc,0.8,Infomap,P*/P,0.0040683482506102524
+Dancer 03,betweenness desc,0.8,Infomap,Modularity,0.7596393844762463
+Dancer 03,betweenness desc,0.8,Infomap,NMI,0.41244395710041915
+Dancer 03,betweenness desc,0.8,Label Propagation,P,1158.0
+Dancer 03,betweenness desc,0.8,Label Propagation,P*/P,0.004317789291882556
+Dancer 03,betweenness desc,0.8,Label Propagation,Modularity,0.7887673600770185
+Dancer 03,betweenness desc,0.8,Label Propagation,NMI,0.4413846440864854
+Dancer 03,betweenness desc,0.8,Louvain,P,1159.0
+Dancer 03,betweenness desc,0.8,Louvain,P*/P,0.004314063848144953
+Dancer 03,betweenness desc,0.8,Louvain,Modularity,0.7888657981715156
+Dancer 03,betweenness desc,0.8,Louvain,NMI,0.4403315249484702
+Dancer 03,betweenness asc,0.9,Louvain-igraph,P,962.0
+Dancer 03,betweenness asc,0.9,Louvain-igraph,P*/P,0.005197505197505198
+Dancer 03,betweenness asc,0.9,Louvain-igraph,Modularity,0.7357180183458836
+Dancer 03,betweenness asc,0.9,Louvain-igraph,NMI,0.366798638037138
+Dancer 03,betweenness asc,0.9,Fastgreedy,P,968.0
+Dancer 03,betweenness asc,0.9,Fastgreedy,P*/P,0.005165289256198347
+Dancer 03,betweenness asc,0.9,Fastgreedy,Modularity,0.7428210024293199
+Dancer 03,betweenness asc,0.9,Fastgreedy,NMI,0.37891158602927977
+Dancer 03,betweenness asc,0.9,Infomap,P,1076.0
+Dancer 03,betweenness asc,0.9,Infomap,P*/P,0.004646840148698885
+Dancer 03,betweenness asc,0.9,Infomap,Modularity,0.6074859870788726
+Dancer 03,betweenness asc,0.9,Infomap,NMI,0.3301442671603783
+Dancer 03,betweenness asc,0.9,Label Propagation,P,1011.0
+Dancer 03,betweenness asc,0.9,Label Propagation,P*/P,0.004945598417408506
+Dancer 03,betweenness asc,0.9,Label Propagation,Modularity,0.6849034881442274
+Dancer 03,betweenness asc,0.9,Label Propagation,NMI,0.3541332079356228
+Dancer 03,betweenness asc,0.9,Louvain,P,963.0
+Dancer 03,betweenness asc,0.9,Louvain,P*/P,0.005192107995846314
+Dancer 03,betweenness asc,0.9,Louvain,Modularity,0.7375246509211816
+Dancer 03,betweenness asc,0.9,Louvain,NMI,0.37175223742744984
+Dancer 03,betweenness desc,0.9,Louvain-igraph,P,1478.0
+Dancer 03,betweenness desc,0.9,Louvain-igraph,P*/P,0.0033829499323410014
+Dancer 03,betweenness desc,0.9,Louvain-igraph,Modularity,0.7875927520070658
+Dancer 03,betweenness desc,0.9,Louvain-igraph,NMI,0.39545484176448825
+Dancer 03,betweenness desc,0.9,Fastgreedy,P,1478.0
+Dancer 03,betweenness desc,0.9,Fastgreedy,P*/P,0.0033829499323410014
+Dancer 03,betweenness desc,0.9,Fastgreedy,Modularity,0.7875927520070658
+Dancer 03,betweenness desc,0.9,Fastgreedy,NMI,0.39545484176448825
+Dancer 03,betweenness desc,0.9,Infomap,P,1519.0
+Dancer 03,betweenness desc,0.9,Infomap,P*/P,0.0032916392363396972
+Dancer 03,betweenness desc,0.9,Infomap,Modularity,0.7547620214066412
+Dancer 03,betweenness desc,0.9,Infomap,NMI,0.378180653126391
+Dancer 03,betweenness desc,0.9,Label Propagation,P,1484.0
+Dancer 03,betweenness desc,0.9,Label Propagation,P*/P,0.0033692722371967657
+Dancer 03,betweenness desc,0.9,Label Propagation,Modularity,0.7859650718998148
+Dancer 03,betweenness desc,0.9,Label Propagation,NMI,0.3936133064915091
+Dancer 03,betweenness desc,0.9,Louvain,P,1478.0
+Dancer 03,betweenness desc,0.9,Louvain,P*/P,0.0033829499323410014
+Dancer 03,betweenness desc,0.9,Louvain,Modularity,0.7875927520070658
+Dancer 03,betweenness desc,0.9,Louvain,NMI,0.39545484176448825
