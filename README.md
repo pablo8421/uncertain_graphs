@@ -56,3 +56,8 @@ This script is based on the code found [here](https://github.com/muhanzhang/SEAL
 ### Running community detection on graphs
 * COMMUNITY_DETECTION: Runs the different community detection algorithms on the graphs generated before. It can be found [here](Experiments/evaluate_community_detection.py). 
 
+
+### Datasets format
+The datasets require a specific format to be run. Two files must exists inside the datasets folder in a folder with the name of the dataset. 
+* The first file must be named as the dataset and followed by _edges.txt. It must contain the pairwise edges, separated by a space.
+* The second file must be named as the dataset and followed by a _comm.txt. It must contain the community belonging of each node, separated by a space.
