@@ -7,6 +7,7 @@ import numpy as np
 import tensorflow.compat.v1 as tf
 import itertools
 from asymproj_edge_dnn import edge_nn
+import glob
 
 if __name__ == "__main__":
     # This is to keep consistent results when modifing the graph
@@ -14,6 +15,7 @@ if __name__ == "__main__":
 
     dataset_name = sys.argv[1]
     datasets_location = sys.argv[2]
+    seal_location = sys.argv[3]
         
     # Load the original edges of the graph
     original_edges = pd.read_csv(datasets_location+dataset_name+'/'+dataset_name+'_edges.txt', header=None, sep=' ', dtype=int)
@@ -73,8 +75,8 @@ if __name__ == "__main__":
 
 
     #Likelihood transformed into standard logistic, acording to equation 8 in the paper
-    all_edges_likelihood['likelihood'] = 1/(1+np.exp(-edge_likelihood))
-    all_edges_likelihood = all_edges_likelihood[['from','to','likelihood']]
+    all_edges_likelihood['asim_likelihood'] = 1/(1+np.exp(-edge_likelihood))
+    all_edges_likelihood = all_edges_likelihood[['from','to','asim_likelihood']]
 
     # Load the modified edges of the graph
     modified_edges = pd.read_csv(datasets_location+dataset_name+'/'+dataset_name+'_edges.txt', header=None, sep=' ', dtype=int)
@@ -152,8 +154,8 @@ if __name__ == "__main__":
 
 
             #Likelihood transformed into standard logistic, acording to equation 8 in the paper
-            all_edges_likelihood['likelihood'] = 1/(1+np.exp(-edge_likelihood))
-            all_edges_likelihood = all_edges_likelihood[['from','to','likelihood']]
+            all_edges_likelihood['asim_likelihood'] = 1/(1+np.exp(-edge_likelihood))
+            all_edges_likelihood = all_edges_likelihood[['from','to','asim_likelihood']]
 
 
             # Load the modified edges of the graph
@@ -164,9 +166,25 @@ if __name__ == "__main__":
             modified_edges['edge_exists_modified'] = 1
             modified_edges = modified_edges[['from','to','edge_exists_modified']]
 
+            # Load likelihood from the SEAL function
+            seal_prediction_files = all_files = glob.glob(seal_location+rem_type+'/0'+str(i)+'/'+rem_type+'_0'+str(i)+'_all_???_pred.txt')
+            li = []
+            for file_name in seal_prediction_files:
+                seal_likelihood = pd.read_csv(file_name, header=None, sep=' ', dtype=str)
+                li.append(seal_likelihood)
+            seal_likelihood = pd.concat(li, axis=0, ignore_index=True)
+            
+            seal_likelihood[0] = seal_likelihood[0].astype(int)
+            seal_likelihood[1] = seal_likelihood[1].astype(int)
+            seal_likelihood['from'] = seal_likelihood[[0,1]].min(axis=1)
+            seal_likelihood['to'] = seal_likelihood[[0,1]].max(axis=1)
+            seal_likelihood['seal_likelihood'] = seal_likelihood[2].astype(float)
+            seal_likelihood = seal_likelihood[['from','to','seal_likelihood']]
+
             # Combine information and save results
             results = pd.merge(all_edges_likelihood, original_edges, on=['from','to'], how='left')
             results = pd.merge(results, modified_edges, on=['from','to'], how='left')
+            results = pd.merge(results, seal_likelihood, on=['from','to'], how='left')
 
             results['edge_exists_original'] = results['edge_exists_original'].fillna(0)
             results['edge_exists_modified'] = results['edge_exists_modified'].fillna(0)
